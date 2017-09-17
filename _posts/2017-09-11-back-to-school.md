@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Back to School!
+published: true
 ---
 ## Back to school
 
