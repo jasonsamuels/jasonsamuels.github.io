@@ -4,7 +4,7 @@ title: Week one and week two Strategic Planning reading summaries
 published: true
 ---
 
-A major purpose that I hope to use this blog for is to write short synopses of class readings. The intent is to reflect on what was covered in them, for the purpose of being understanding the material and for seeing the linkages between themes covered in the two classes.
+A major purpose that I hope to use this blog for is to write short synopses of class readings. The intent is to reflect on what was covered in them, for the purpose of better understanding the material and for seeing the linkages between themes covered in the two classes.
 
 Because I'm currently catching up on this at the start of week four of the semester, a few catch up posts are in order to get the blog up-to-speed. This post covers the readings from weeks one and two of the Strategic Planning course.
 
