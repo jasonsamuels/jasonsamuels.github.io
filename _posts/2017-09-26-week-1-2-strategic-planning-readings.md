@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: Week one and two Strategic Planning reading summaries
+title: Week one and week two Strategic Planning reading summaries
 published: true
 ---
 
