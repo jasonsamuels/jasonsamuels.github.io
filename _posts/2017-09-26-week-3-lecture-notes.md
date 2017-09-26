@@ -3,7 +3,7 @@ layout: post
 title: Week three lecture notes
 published: true
 ---
-
+&nbsp;
 
 ## Notes from Strategic Planning
 
