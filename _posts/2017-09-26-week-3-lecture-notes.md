@@ -8,18 +8,18 @@ published: true
 ## Notes from Strategic Planning
 
 * Reflections on last week's PennDOT case:
- * Importance of keeping an open mind
- * Thinking about a lot of options up front
- * tackle things in such a way that you can build success and build on success - order you do things is important
- * Shocked at just how bad things can get, though the backlash led to a strong mandate for change
+  * Importance of keeping an open mind
+  * Thinking about a lot of options up front
+  * tackle things in such a way that you can build success and build on success - order you do things is important
+  * Shocked at just how bad things can get, though the backlash led to a strong mandate for change
 * Always engage in strategic planning in a specific context. Be careful about how you generalize from one situation to another.
 * Design principles ideas .. you engage in strategic planning to engage in changing a situation.
 * Even more important than going step-by-step is thinking backward from where you need to be to where you are to figure out what it will take to succeed.
 * Need to have a process that’s flexible enough to be able to change based on what we learn along the way.
 * Strategic planning processes are divergent, convergent, partially-cumulative processes.
- * Divergent: what is our mission? Who are our stakeholders?
- * Convergent: converge on some of those ideas
- * Partially-cumulative: you take some of the ideas with you, but not everything. And you circle back to what you learn
+  * Divergent: what is our mission? Who are our stakeholders?
+  * Convergent: converge on some of those ideas
+  * Partially-cumulative: you take some of the ideas with you, but not everything. And you circle back to what you learn
 * SP is a diversified, shared-power process. Makes divergence easy but convergence difficult
 * Attention given to stakeholders is something that makes strategic planning unique
 * You need to think about who needs to say yes, and what they care about
