@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week one lecture notes
+title: Week one class notes
 published: true
 ---
 &nbsp;
