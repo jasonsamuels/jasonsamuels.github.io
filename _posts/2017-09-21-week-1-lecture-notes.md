@@ -4,7 +4,7 @@ title: Week one lecture notes
 published: true
 ---
 
-##Notes from Strategic Planning
+## Notes from Strategic Planning
 
 * “Competence is its own motivation”
 * This course is about expanding skill base to make the world better
@@ -21,7 +21,7 @@ published: true
 * Re-thinking a situation can flip a threat to an advantage
 * Changing the odds depends on understanding the systems
 
-##Notes from Strategic Human Resources Management
+## Notes from Strategic Human Resources Management
 
 * During class introductions I noticed that of the 12 students in class, 4 are from outside the United States. I'm really looking forward to hearing the perspectives they bring through the semester.
 * Critical thinking skills are a priority, they transfer to the business world.
