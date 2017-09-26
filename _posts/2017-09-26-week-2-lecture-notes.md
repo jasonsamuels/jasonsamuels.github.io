@@ -4,7 +4,7 @@ title: Week two lecture notes
 published: true
 ---
 
-##Notes from Strategic Planning
+## Notes from Strategic Planning
 
 This week's class centered on a hands on stakeholder mapping exercise. It was a great experience and extraordinarily valuable practice for engaging in real world strategic planning activities. The room was polled for ideas on who the stakeholders were in the PennDOT case. 19 were identified and then each of the 9 tables in the room were asked to think about, from the stakeholder's perspective, how would you judge PennDOT's performance. A SWOT/C analysis was then undertaken to identify major issues and start proposing strategies to fix PennDOT.
 
@@ -15,7 +15,7 @@ Because most of this week's class time was spent on an experiential learning act
 * In a SWOT analysis, strengths and opportunities are generally in the present, while weaknesses and threats are generally in the future
 * Every effective process will take advantage of strengths and build on opportunities to overcome weaknesses and threats.
 
-##Notes from Strategic Human Resources Management
+## Notes from Strategic Human Resources Management
 
 * Reframing of the term Strategic Human Resources _Management_ as Strategic Human Resources _Leadership_
 * People quit bosses, they don’t quit organizations
