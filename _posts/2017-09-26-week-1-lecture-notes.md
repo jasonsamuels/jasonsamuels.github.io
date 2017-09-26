@@ -4,6 +4,7 @@ title: Week one lecture notes
 published: true
 ---
 
+
 ## Notes from Strategic Planning
 
 * “Competence is its own motivation”

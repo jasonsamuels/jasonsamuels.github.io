@@ -4,6 +4,7 @@ title: Week three lecture notes
 published: true
 ---
 
+
 ## Notes from Strategic Planning
 
 * Reflections on last week's PennDOT case:

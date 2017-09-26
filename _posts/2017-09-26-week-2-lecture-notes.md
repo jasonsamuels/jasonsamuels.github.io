@@ -4,6 +4,7 @@ title: Week two lecture notes
 published: true
 ---
 
+
 ## Notes from Strategic Planning
 
 This week's class centered on a hands on stakeholder mapping exercise. It was a great experience and extraordinarily valuable practice for engaging in real world strategic planning activities. The room was polled for ideas on who the stakeholders were in the PennDOT case. 19 were identified and then each of the 9 tables in the room were asked to think about, from the stakeholder's perspective, how would you judge PennDOT's performance. A SWOT/C analysis was then undertaken to identify major issues and start proposing strategies to fix PennDOT.
