@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Class notes - week two
+title: Class notes - week two, Fall 2017
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Class notes - week one
+title: Class notes - week one, Fall 2017
 published: true
 ---
 I kicked off my return to campus by attending the student welcome reception hosted by the Dean of the Humphrey School.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Class notes - week three
+title: Class notes - week three, Fall 2017
 published: true
 ---
 Week three broke my biking streak as there was one rainy day and another which involved a pre-work meeting that necessitated driving that morning.
