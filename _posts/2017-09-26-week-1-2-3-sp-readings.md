@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week one and week two Strategic Planning reading summaries
+title: Strategic Planning reading summaries - weeks one, two, and three
 published: true
 ---
 
@@ -14,7 +14,7 @@ This class started off with a bang, with roughly a hundred pages of reading due 
 
 ### Strategic Planning for Public and Nonprofit Organizations, Bryson (2011)
 
-The textbook assigned for the class is Strategic Planning for Public and Nonprofit Organizations, authored by our professor John Bryson. The biggest portion of the first week's assignment was to read the first two chapters of this book.
+The textbook assigned for the class is _Strategic Planning for Public and Nonprofit Organizations_, authored by our professor John Bryson. The bulk of the first week's assignment was to read the first two chapters of this book. We also had to come prepared to analyze two case studies - one on Alexander the Great, and the other on Barack Obama's first presidential campaign.
 
 #### Chapter one - why strategic planning is more important than ever
 
@@ -96,6 +96,8 @@ draw credible commitment and sustained support
 
 ## Week two
 
+The volume of reading for the second week of our Strategic Planning class did not let up, with three moderately long and complex articles covering disparate subjects plus a case study assignment analyzing the problems with PennDOT in the late-1970s.  
+
 ### Managing Successful Organizational Change in the Public Sector, Fernandez and Rainey (2006)
 
 This article provided an overview of literature on organizational change.
@@ -113,7 +115,7 @@ This article provided an overview of literature on organizational change.
 
 ### Making a Difference: Organization as Design, Romme (2003)
 
-I found this article to be fascinating. As someone who's career path has often intersected with technical design communities, I was intrigued by this framing of design concepts and comparison to science humanities.
+I found this article fascinating. As someone who's career path has often intersected with technical design communities, I was intrigued by this framing of design concepts and comparison to science humanities.
 
 * Mainstream organizational research is based on science and humanities. This paper argues that organization studies should be broadened to include design as a primary mode of engaging in research
 * Design is characterized by an emphasis on solution finding
@@ -146,3 +148,42 @@ This article aimed to review and synthesize literature on public sector strategi
 * Senior manager support was a positive and significant factor in creating change through strategic planning, but middle manager support had no impact
 * Perhaps the most accurate conclusion to draw from this line of research is that effective strategic planning is most likely when a top leader establishes the process and creates a centralized mechanism for implementing it
 * The success of strategic planning ultimately depends on an organization’s capability to implement the system that it creates.
+
+## Week three
+
+Week three of Strategic Planning again provided challenging readings. This time is was a chapter and resource from the textbook, plus three more lengthy articles, a pre-recorded video lecture, and a case study assignment analyzing the politics of establishing an urban growth area. By this point it's becoming apparent that this is a difficult class which will likely remain challenging throughout the semester, and since that's what I signed up for I'm roughly equal parts excited and filled with dread for it.
+
+The three assigned articles this week were _What You Should Know About Megaprojects and Why: An Overview, Flyvvbjerg (2014)_, _Developmental Evaluation, Patton (2010)_, and _Persuasion in Society, Simons and Jones (2011)_. I'm not going to summarize these articles in detail here. The first of them was somewhat interesting in how it describes the challenges around massive public building projects, and enlightening in regards to showing just how few get completed within budget and how policymakers find rationale to justify them anyway. But there just wasn't much in the way of theory or general lessons to pick out as concepts to remember for other cases. The other two readings were plagued by a technical problem, they were scanned in two sheets to a page at a fairly low resolution and not rotated properly. That really added to the difficulty of reading them and I just don't want to relive that going back through my highlights to summarize them. The subject matter was good though seemingly far flung - the developmental evaluation article covered how different methods of evaluation fit organizations at different stages, and put forth a model in which programs go through stages of reorganization, exploitation, conservation, and release. The persuasion article was interesting in how it covered concepts of fallacy and illustrated through a case study how difficult it can be to make a rational argument stand up in the face of a well funded opposition who's unmoved by facts and reason.
+
+### Bryson, chapter three - initiating and agreeing on a strategic planning process
+
+* The purpose of the first step in the Strategy Change Cycle is to develop an initial agreement. This agreement represents a plan for planning—or specific process design—intended to point the way
+* Strategic planning and management at their best involve “real learning [that] takes place at the interface of thought and action
+* Strategic learning must combine reflection with result
+* The initial agreement outlines important design features of the planning process. Ideally, the step will produce agreement on several issues:
+  1. The purpose(s) and worth of the strategic planning effort
+  2. Project organization, including who the sponsors and champions are
+  3. The organizations, units, groups, or persons who should be engaged, and in what ways
+  4. The specific steps to be followed, how the Web and information and communication technologies will be used, and the way ongoing feedback and learning will occur
+  5. The form and timing of reports
+  6. Resource commitments to begin the effort
+  7. Key requirements for a successful effort
+* The agreement also should make clear what the “givens” are at the beginning of the process.
+* The process of reaching an initial agreement is straightforward in concept, but often rather circuitous in practice. It usually proceeds through the following stages:
+  1. Initiating the process
+  2. Introducing the concept of strategic planning
+  3. Developing an understanding of what it can mean in practice
+  4. Thinking through some of its more important implications in terms of necessary commitments and other requirements for success
+  5. Developing a commitment to strategic planning
+  6. Reaching an actual agreement
+* The more numerous the decision makers the more time-consuming the process will be
+* Broad sponsorship dispels any suspicion that the effort is a power play and is also a source of psychological safety
+* “Collaboration across boundaries does not happen naturally, it must be made to happen.”
+* A well-articulated initial agreement also provides a clear definition of the network to be involved and the process by which it is to be maintained.
+* The sequence should contribute to stakeholders’ sense that the process is procedurally rational.
+* It is very important to be clear from the start what is off-limits for the exercise; otherwise, several key decision makers are unlikely to participate.
+* A good agreement should provide useful preparation for any major changes that may be forthcoming
+* Coalitions typically do not develop quickly, they instead coalesce around the important strategic ideas that emerge
+* Strategic planning and management grow out of organizational or community culture, and thus any out­comes produced must tap into that culture, even if the purpose—as it usually is—is to change the culture in some ways
+* What matters most in strategic planning thus is what is not visible. Pay very careful attention to the production of those intangible but highly consequential outcomes
+* Initiating strategic planning can be worth the effort, but the process will not necessarily be a smooth or successful one.
