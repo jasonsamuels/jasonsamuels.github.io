@@ -3,7 +3,12 @@ layout: post
 title: Class notes - week two
 published: true
 ---
-&nbsp;
+
+During week two of class things the student life felt like it started settling in a bit.
+
+I biked both days this week to avoid parking fees, which since I've bike commuted less this summer than I have in many years just felt like a great motivation and got the blood pumping. Before Wednesday's class, while grabbing dinner in the basement of Carlson School I sat down at a table with a slightly older African American woman and struck up a conversation. She was not a student, told me she was retired after decades of working as the assistant warden at a state correctional facility and now she gets to explore new things that she's interested in. Said that particular evening she was on campus for an event on the role that journalism plays in today's world and that the featured speaker was Don Shelby, who she then pointed out was sitting about ten feet behind me. So that was cool.
+
+This was also the week when I gave up on trying to take handwritten notes on the tablet screen. I'm not so sure whether writing them out really does improve retention, but I am now certain that trying to write them with a Surface Pen is just too slow going for me. I switched over to typing my notes literally in the middle of Wednesday night's class and quickly realized just how much more efficient that is for me. Then I remembered how I get a decent amount of note-taking practice participating in the [http://bit.ly/ntcnotes](collaborative notes effort at the NTC) each year and yeah .. it was worth a shot but this is totally better. And that then made me think that it would be fantastic to organize similar collaboration with my new classmates. So I put a call out at the end of class, but think I explained it kind of awkwardly and it didn't seem to catch on. Might try to come back to that later in the semester.
 
 ## Notes from Strategic Planning
 

@@ -3,7 +3,11 @@ layout: post
 title: Class notes - week three
 published: true
 ---
-&nbsp;
+Week three broke my biking streak as there was one rainy day and another which involved a pre-work meeting that necessitated driving that morning.
+
+I had a frustrating moment on Tuesday evening. Was cutting the schedule a bit close getting to class and parked the car in the ramp at the electric car charging station. As I had done before I called the number on the front of the station to get them to initiate a free charging session, but the hold time was longer than I had to spare. I left the call running in my pocket as I started walking to class in hopes that they would pick up and I could run back and plug the car in, but they didn't pick up until ten minutes had elapsed and I was already in the Humphrey School building just a couple minutes before class start time. So, note to self, I should sign up for a Chargepoint account to get a card to initiate a session myself, and until that happens make sure there's ample time to wait on the phone to start that charging session. On the bright side, I discovered that the cost of parking drops to $1 and hour when you enter the ramp after 5pm when the fee to exit came to just four bucks. That makes me feel like coming to campus in the winter is going to be more manageable, though I still hope to bike as often as I can before the snow flies.
+
+At the end of Wednesday evening's class I struck up a conversation with a gentleman who was sitting at a computer in the learning center outside our classroom. We chatted a bit about being older students on campus and the challenge of having the energy to keep up with it all. He told me about being retired from a civil service position where he was a liaison with NGOs in Africa and that he was intrigued by the nonprofit management program. It wasn't clear whether he's in the MPA program or on campus considering and preparing for it. I told him my name and shook his hand, he told me his and I said "nice to meet you Ed." "Ahmed" he said, not I'm Ed. I was a little embarrassed but we both took it in stride. I've seen Ahmed around campus a couple more times since then and have just kept thinking I need to remember to blog about that. Those types of chance encounters meeting new people from different cultures is something I hope to experience many times during this adventure, and is exactly the type of thing that I want to chronicle here to remember.
 
 ## Notes from Strategic Planning
 
