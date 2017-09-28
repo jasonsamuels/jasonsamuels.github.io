@@ -1,4 +1,7 @@
- ---
+---
+published: false
+---
+---
 layout: post
 title: Class notes - week four, Fall 2017
 published: true
