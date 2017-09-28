@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title: Class notes - week four, Fall 2017
 published: true
@@ -6,7 +6,7 @@ published: true
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I thought I was here to learn management. Four weeks into the semester it&#39;s become apparent they&#39;re teaching leadership. That&#39;s a good thing</p>&mdash; Jason Samuels (@jasonsamuels) <a href="https://twitter.com/jasonsamuels/status/913173955594395648?ref_src=twsrc%5Etfw">September 27, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The theme this week was leadership. The week's readings centered on organizational culture, and cleared showed how culture impacts performance. Engaged and empowered employees = thriving organizations.
+The theme this week was leadership. The week's readings centered on organizational culture, and clearly showed how culture impacts performance. Engaged and empowered employees = thriving organizations.
 
 ## Notes from Strategic Planning
 
@@ -35,6 +35,8 @@ Professor Bryson suggested that we consider doing purpose mapping with our proje
 
 ## Notes from Strategic Human Resources Management
 
+As is becoming our pattern the SHRM class engaged in a lively discussion of the readings. We discussed leadership and the importance of everyone in the organization being both empowered and accountable. The accountable part made me feel some regret for not having finished all of the reading. I ran out of time two chapters of the textbook short and having not viewed the case study videos due to prioritizing this foolish blog project. It was particularly embarrassing near the end of class when Professor Jay led a discussion of the case study. I reconciled myself to the fact that if called upon I would just admit to failing to do it and ask to move on. But I wasn't eager to admit that so I kind of ducked my head, didn't get called upon and it thankfully didn't come to that.
+
 * Tonight we’re going to dive into leadership. We’ve been studying around the periphery of it but tonight we’re going to take it on directly.
 * Tonight’s question: How does a public/nonprofit executive lead people using organizational and leadership theory?
 * Posed to class: What do you think makes a leader?
@@ -49,7 +51,7 @@ Professor Bryson suggested that we consider doing purpose mapping with our proje
 * Is the leader responsible for the motivation of their group?
   * One answer was yes, but that idea was challenged. McGregor would not agree. Motivation is intrinsic. A leader creates an environment in which people’s intrinsic motivation emerges.
 * Can leadership be taught?
-  * Trick question. From [last week](/class-notes-wk4-f17), to become a leader you need to become your true self. Knowing who you are is the first and most important step.
+  * Trick question. From [last week](/class-notes-wk3-f17), to become a leader you need to become your true self. Knowing who you are is the first and most important step.
   * Doesn’t necessarily need to be taught in a classroom. Can be modeled, mentored, self-taught.
   * Word that Professor Jay would use is “enhance.” Everyone has some intrinsic leadership skills
 * Absolutely critical not only that you’re self aware, but that you’re open to feedback
