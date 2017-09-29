@@ -6,7 +6,7 @@ published: true
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I thought I was here to learn management. Four weeks into the semester it&#39;s become apparent they&#39;re teaching leadership. That&#39;s a good thing</p>&mdash; Jason Samuels (@jasonsamuels) <a href="https://twitter.com/jasonsamuels/status/913173955594395648?ref_src=twsrc%5Etfw">September 27, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The theme this week was leadership. The week's [readings](/readings-wk-4-f17/) centered on organizational culture, and clearly showed how culture impacts performance. Engaged and empowered employees = thriving organizations.
+Class themes this week were _mission and mandates_ in SP and _leadership_ in SHRM. The week's [readings](/readings-wk-4-f17/) centered on organizational culture, clearly demonstrating how culture impacts performance. Engaged and empowered employees = thriving organizations.
 
 ## Notes from Strategic Planning
 
