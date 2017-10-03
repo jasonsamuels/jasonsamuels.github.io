@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Video lecture notes - Strategic Planning - weeks three, four, and five Fall 2017
+title: Video lecture notes - Strategic Planning - weeks three, four, and five, Fall 2017
 published: true
 ---
 
-A component of the Strategic Planning class is pre-recorded video lectures which are assigned to watch prior to some classes.  I've been taking notes as I watch these, but haven't quite been sure if or where to fit summaries of them in on the blog. I might decided to start incorporating them in with the reading notes or class notes from the week going forward, but for now am going to just catch them up by summarizing the first three weeks here.
+A component of the Strategic Planning class is pre-recorded video lectures which are assigned to watch prior to some classes.  I've been taking notes as I watch these, but haven't quite been sure if or where to fit them in the blog. I might start incorporating them in with the reading notes or class notes posts going forward, but for now am going to catch them up by summarizing the first three weeks here.
 
 A technical note, most of the videos are posted as MP4 files which enables me to download and then view them using [VLC player](https://www.videolan.org/vlc/index.html). I started doing that because VLC enables me to adjust the playback speed to get through them more quickly. What I discovered while doing this is that VLC has hotkey mappings which enable keyboard shortcuts for a number of commands, including faster and slower, and skipping 10 seconds back or forward. So I'm starting to get in a groove with being able to watch a video at a higher speed, but when I hear something important that I want to note then I can quickly hit the keys to jump back and slow it down. Speed adjustments are also a feature of YouTube videos and [can be enabled for Vimeo via this Chrome extension](https://chrome.google.com/webstore/detail/vimeo-repeat-speed/noonakfaafcdaagngpjehilgegefdima?hl=en). As far as I can tell, videos posted via Kaltura (such as the Week 1 intro video for this class) cannot be sped up.
 
