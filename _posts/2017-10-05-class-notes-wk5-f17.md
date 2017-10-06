@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Class notes - week five, Fall 2017
-published: false
+published: true
 ---
 
 This past week was difficult. Like, really difficult. But it also felt like a week where I turned a corner.
