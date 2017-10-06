@@ -32,7 +32,7 @@ Prof Bryson used the third of the way mark to solicit feedback from the students
 
 ## Notes from Strategic Human Resources Management
 
-This week's Strategic Human Resources Class was my favorite of the semester so far. There was a phenomenal guest speaker who told us an exceptional story about how living up to the values of their organizational culture got them through a very difficult time, and how that experience strengthened the organization going forward. Then the class had a great discussion, inspired and informed by the story we had just heard.
+This week's SHRM class was my favorite of the semester so far. There was a phenomenal guest speaker who told us an exceptional story about how living up to the values of their organizational culture got them through a very difficult time, and how that experience strengthened the organization going forward. Then the class had a great discussion, inspired and informed by the story we had just heard.
 
 ### Guest speaker on organizational culture
 
