@@ -20,7 +20,7 @@ Prof Bryson used the third of the way mark to solicit feedback from the students
 
 * Two most important tools for strategic planning - speaking and writing clearly and directly
 * Getting people to do a debrief and reflect is typically one of the hardest parts of a strategic planning process. People typically want to get through it and move on. Understandable, we’re all busy.
-* Strategic planning is not a soft science but a hard art. You have lots of templates, cases to draw upon. SP is not a single thing. It’s a toolkit. You don’t follow a set recipe or algorithm. You need to be able to bring the knowledge to bear and think strategically to apply it in context.
+* Strategic planning is not a soft science but a hard art. You have lots of templates, cases to draw upon. **SP is not a single thing. It’s a toolkit. You don’t follow a set recipe or algorithm. You need to be able to bring the knowledge to bear and think strategically to apply it in context.**
 * Think of SP as a kind of assembly process - ideas, people, information. There’s an art to assembling something elegant when you’re done, though lots of messiness along the way.
 * Purpose mapping is single most powerful SP tool Prof Bryson knows of
 * We act on assumptions. If our assumptions are off base, we can really get into trouble
@@ -67,7 +67,7 @@ The guest speaker told another story about a hiring process for a senior executi
 * The department advisory group was engaged in the process early, asked what they needed from their new boss.
 * When the two finalist candidates were brought in, they each came in for nearly a full day and met with multiple committees comprising 35 separate employees.
 * The compensation conversation was handled early in the process. You don’t bring someone in to talk with that many people without being on the same page regarding compensation already.
-* After the new person was hired they shared that they when getting the offer was that they were a finalist in other searches, but could tell from the process that this culture was different and special.
+* After the new person was hired they shared that when getting the offer they were a finalist in other searches, but could tell from the process that this culture was different and special.
 
 ### Notes from class discussion
 
