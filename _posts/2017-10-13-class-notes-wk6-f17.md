@@ -6,7 +6,7 @@ published: true
 
 Fall semester is 40% done at this point and summer is clearly gone. The weather has changed and autumn colors are on full display.
 
-> ## Table of contents
+> <b>Table of contents</b>
 > * <b>[Notes from Strategic Planning](#notes-from-strategic-planning)</b>
 > * <b>[Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)</b>
 
