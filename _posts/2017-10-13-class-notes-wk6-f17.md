@@ -6,6 +6,10 @@ published: true
 
 Fall semester is 40% done at this point and summer is clearly gone. The weather has changed and autumn colors are on full display.
 
+> ## Table of contents
+> * <b>[Notes from Strategic Planning](#notes-from-strategic-planning)</b>
+> * <b>[Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)</b>
+
 This past week felt easier than the previous weeks have been. The workload throttled back to a normal amount, I got some more sleep and started feeling calmer about being in school, it no longer feels quite so brand new and novel and anxiety producing. I'm starting to get to a point where I'm not as stressed about finding enough time to get my schoolwork done. My family has stepped up to help with childcare so I can have free blocks of time to get schoolwork done, and while it's still a lot of work and a huge challenge, it's something that I'm managing.
 
 My grades from last week's assignments came in. The SP assignment that I despaired over came back with a better grade than I expected. But then the SHRM assignment which I was more confident about didn't some back with as good a grade as I hoped for. Such is student life I guess.

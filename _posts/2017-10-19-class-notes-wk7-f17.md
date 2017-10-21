@@ -6,11 +6,11 @@ published: true
 
 It was another week of top quality learning at the Humphrey School. In Strategic Planning we heard from a great guest speaker and did a competency mapping activity. In Strategic Human Resources Management we had a robust discussion about performance appraisals.
 
-Today was my daughter's third birthday. I took a PTO day at work and we all went to the Como Zoo, where we've visited on all of her birthdays. It's a fun tradition and the progression of photos is great. Afterwards we came home, and while she slept my spouse and I wrapped presents and prepared a nice birthday dinner. Right now they're in bed as I'm cleaning up downstairs. It's not unusual for me to take a break from cleaning up to tackle an assigned reading or write a blog entry, like this one. But I need to keep it brief tonight. I still need to put the CSA veggies away, get the garbage cans out to the curb, and go to bed at a reasonable hour.
-
 ## Table of contents
 * <b>[Notes from Strategic Planning](#notes-from-strategic-planning)</b>
 * <b>[Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)</b>
+
+Today was my daughter's third birthday. I took a PTO day at work and we all went to the Como Zoo, where we've visited on all of her birthdays. It's a fun tradition and the progression of photos is great. Afterwards we came home, and while she slept my spouse and I wrapped presents and prepared a nice birthday dinner. Right now they're in bed as I'm cleaning up downstairs. It's not unusual for me to take a break from cleaning up to tackle an assigned reading or write a blog entry, like this one. But I need to keep it brief tonight. I still need to put the CSA veggies away, get the garbage cans out to the curb, and go to bed at a reasonable hour.
 
 ## Notes from Strategic Planning
 
