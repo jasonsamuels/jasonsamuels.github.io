@@ -6,9 +6,9 @@ published: true
 
 Fall semester is 40% done at this point and summer is clearly gone. The weather has changed and autumn colors are on full display.
 
-> <b>Table of contents</b>
-> * <b>[Notes from Strategic Planning](#notes-from-strategic-planning)</b>
-> * <b>[Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)</b>
+> <span class="toc">Table of contents
+> * [Notes from Strategic Planning](#notes-from-strategic-planning)
+> * [Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)</span>
 
 This past week felt easier than the previous weeks have been. The workload throttled back to a normal amount, I got some more sleep and started feeling calmer about being in school, it no longer feels quite so brand new and novel and anxiety producing. I'm starting to get to a point where I'm not as stressed about finding enough time to get my schoolwork done. My family has stepped up to help with childcare so I can have free blocks of time to get schoolwork done, and while it's still a lot of work and a huge challenge, it's something that I'm managing.
 
