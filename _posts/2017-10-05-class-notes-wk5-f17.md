@@ -6,9 +6,9 @@ published: true
 
 This past week was difficult. Like, really difficult. But it also felt like a week where I turned a corner.
 
-> <span class="toc">Table of contents
+>Table of contents
 > * [Notes from Strategic Planning](#notes-from-strategic-planning)
-> * [Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)</span>
+> * [Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)
 
 I've started getting in a groove with how I'm using this blog to reflect on and summarize course content. I survived the heavy workload due this week, even if it was a [bumpy ride](/2017-10-03-the-perils-of-overachieving). The semester is a third of the way done and I now feel a little more confident in my ability to handle it. The lighter workload on the coming week's horizon provides a little sense of relief. And I got almost a full eight hours of sleep last night.
 

@@ -5,9 +5,9 @@ published: true
 ---
 Week three broke my biking streak as there was one rainy day and another which involved a pre-work meeting that necessitated driving that morning.
 
-> <span class="toc">Table of contents
+>Table of contents
 > * [Notes from Strategic Planning](#notes-from-strategic-planning)
-> * [Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)</span>
+> * [Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)
 
 I had a frustrating moment on Tuesday evening. Was cutting the schedule a bit close getting to class and parked the car in the ramp at the electric car charging station. As I had done before I called the number on the front of the station to get them to initiate a free charging session, but the hold time was longer than I had to spare. I left the call running in my pocket as I started walking to class in hopes that they would pick up and I could run back and plug the car in, but they didn't pick up until ten minutes had elapsed and I was already in the Humphrey School building just a couple minutes before class start time. So, note to self, I should sign up for a Chargepoint account to get a card to initiate a session myself, and until that happens make sure there's ample time to wait on the phone to start that charging session. On the bright side, I discovered that the cost of parking drops to $1 and hour when you enter the ramp after 5pm because the fee to exit came to just four bucks. That makes me feel like coming to campus in the winter is going to be more manageable, though I still hope to bike as often as I can before the snow flies.
 

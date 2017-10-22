@@ -5,9 +5,9 @@ published: true
 ---
 I kicked off my return to campus by attending the student welcome reception hosted by the Dean of the Humphrey School.
 
-> <span class="toc">Table of contents
+>Table of contents
 > * [Notes from Strategic Planning](#notes-from-strategic-planning)
-> * [Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)</span>
+> * [Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)
 
 The message was one of encouragement to challenge yourself and others. We were encouraged to engage others with perspectives different from ours and address our differences through respectful dialogues. We were encouraged to seek out conversations with fellow students who came from other countries, to explore and better understand the perspectives they bring. We were reminded that as students at a public affairs school during challenging political times, we're not here to avoid the issues of the world but to study and face them as scholars. The kickoff event really hit home for me that while I'm here to study nonprofit management, the environment where I'm doing that is much richer and the opportunity at hand to take part in that is special.
 

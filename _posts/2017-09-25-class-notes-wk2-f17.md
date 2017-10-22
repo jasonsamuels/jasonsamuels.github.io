@@ -6,9 +6,9 @@ published: true
 
 During week two of classes the student life felt like it was starting to sink in.
 
-> <span class="toc">Table of contents
+>Table of contents
 > * [Notes from Strategic Planning](#notes-from-strategic-planning)
-> * [Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)</span>
+> * [Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)
 
 I biked both days this week to avoid parking fees, which since I've bike commuted less this summer than I have in many years just felt like a great motivation and got the blood pumping. Before Wednesday's class, while grabbing dinner in the basement of Carlson School I sat down at a table with a slightly older African American woman and struck up a conversation. She was not a student, told me she was retired after decades of working as the assistant warden at a state correctional facility and now she gets to explore new things that she's interested in. Said that particular evening she was on campus for an event on the role that journalism plays in today's world and that the featured speaker was Don Shelby, who she then pointed out was sitting about ten feet behind me. So that was cool.
 
