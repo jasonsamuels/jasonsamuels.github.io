@@ -6,7 +6,7 @@ published: true
 
 For the five page leadership memo assignment due for SHRM this coming week, to write to the leader of a public or nonprofit organization and address the question *"What are the pros and cons of our current performance appraisal system, and what would you recommend the organization do to improve the system (if you believe there should be a system. If not, explain why not.)?"* This is my raw outline to work from:
 
-Class 7 notes:
+[Week 7 notes](/class-notes-wk7-f17/):
 
 “If we think of performance appraisals as a process rather than an event, maybe we’ll be better off”  - Prof Jay
 
@@ -14,7 +14,7 @@ If performance appraisal done at same time as development planning, might send m
 
 “If performance data isn’t useful then stop collecting it”
 
-Class 7 readings:
+[Week 7 readings](/readings-wk-7-f17/):
 
 while review of incidents and the identification of lessons are more readily accomplished, true learning is much more difficult  (Donahue and Tuohy 2006)
 
@@ -59,8 +59,6 @@ Treating each employee uniquely is a sophisticated form of emotional support tha
 give effective informal feedback
   (Teckchandani & Pichler 2015)
 
-
-
 performance data should be an output of a Performance Management process, not as an input or starting-point for developmental activities  (Gravina & Siers 2011)
 
 An optimal performance management system that serves both the developmental and administrative functions (Gravina & Siers 2011)
@@ -89,16 +87,14 @@ Employees who can make sense of HRM and understand what is expected from them te
 
 High-quality performance appraisal appears to promote increases in reflection, knowledge sharing, and innovative behavior over time (Bendall et. al. 2014)
 
-
-
-Week 6 readings:
+[Week 6 readings](/readings-wk-6-f17/):
 
 Competency modeling is a method of collecting and organizing job information and worker attributes into broad competencies. Competency model is a set of competencies that are necessary for effective performance and they typically cover a broader range of jobs than traditional job analysis  (Pynes 2009)
 Concept of strategic job and how strategic job design can better link jobs to strategic goals of the organization. - The difference between strategic jobs and non-strategic jobs in part reflects the difference between strategic success and operational excellence. (Becker & Huselid 2010)
 
 strategic human capital resource combinations represent complex resources while the lower level resources represent commodity resources  Ployhart et al (2014)
 
-Week 5 readings:
+[Week 5 readings](/readings-wk-5-f17/):
 
 A critique of performance management processes is that they tend to privilege certain values over others  (Kroll and Moynihan 2015)
 
@@ -112,7 +108,7 @@ By far the most important strategic planning techniques are individual thinking 
 
 As with every step in the strategic planning process, simpler is usually better. (Bryson)
 
-Week 4 readings:
+[Week 4 readings](/readings-wk-4-f17/):
 
 an organization’s identity is closely tied to its culture because identity provides a set of skills and a way of using and evaluating those skills that produce characteristic ways of doing thing  Dutton and Dukerich (1991)
 
@@ -155,7 +151,7 @@ the ability to succeed today will probably not be adequate a year from now, and 
 
 A good cause is one that excites employees, deepens their commitment, and lends meaning to their work.     Heil, Bennis, & Stephens (2000)
 
-Week 1,2,3 SHRM readings:
+[Week 1,2,3 readings](/readings-shrm-wk-1-2-3-f17/):
 
 HR best serves the company’s interest by analyzing and sharing data, building skills, and developing leaders Allen (2015)
 
