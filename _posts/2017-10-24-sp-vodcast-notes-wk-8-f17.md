@@ -4,7 +4,7 @@ title: Video lecture notes - Strategic Planning - week eight, Fall 2017
 published: true
 ---
 
-This week's SP video lecture was extraordinarily valuable. Rather than listening to most of it sped up, I often slowed this one down or jumped back in order to keep up while taking notes.
+This week's SP video lecture was extraordinarily valuable. Rather than listening to most of it sped up, I jumped back often and even slowed this one down in order to keep up taking notes.
 
 ## Week eight VODcast
 
