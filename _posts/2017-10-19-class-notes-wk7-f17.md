@@ -16,37 +16,7 @@ Today was my daughter's third birthday. I took a PTO day at work and we all went
 
 This week's SP class featured a guest speaker who previously worked for 20 years for a consulting firm which did public sector strategy and visioning. They now work in a senior leadership role for a large nonprofit after having consulted with them to help craft their strategic plan. Now in charge of executing on strategy from the inside.
 
-* Lessons learned along the way - whenever you use the word strategy, people freak out. It’s universally frightening and paralyzing. Once you realize that, start thinking about different ways to present it to people without using the word strategy.
-* Invite people to talk about the choices that are made, then discuss with them the strategy in play instead of asking them to try to articulate the strategy.
-* As with budgeting, putting a strategy together is much different from managing to that strategy
-* 5 C’s framework:
-  * Core = clarity of purpose
-  * Customer = to whom accountable
-  * Consequences = incentives & consequences for performance
-  * Control = empowering decision-making
-  * Culture = the drumbeat of the organization
-* On the managing side of things **there’s always a need to pay attention to how people will change to get the goals accomplished**
-* Change happens when…  *D x V x K x B > R*
-  * _D_ = demand for change
-  * *V* = vision of the future
-  * *K* = knowledge of next steps
-  * *B* = belief that change will happen
-  * *R* = resistance to change
-  * *All of these are multipliers, so none of the factors on the left side can be zero if you want to be successful*
-* In strategy development work, most time spent with upper management in the organization. In talking through how to get results, need to marry the big picture with the day-to-day practical best understood by front-line staff.
-* As a consultant you reach a point where realize the org’s appetite for change and just how far they’re willing to go.
-* Simple rules for flocking:
-  * Fly in same direction as bird next to you
-  * Maintain a safe distance
-  * Maintain roughly the same speed
-* This metaphor helps frame simple rules to guide behavior
-* **Shared behaviors lead to systemic patterns**
-* Rules for inquiry comes from human systems dynamics:
-  * Turn judgement into curiosity
-  * Turn disagreement into shared exploration
-  * Turn defensiveness into self-reflection
-  * Turn assumptions into questions
-* Nonprofit is a tax status, not a business model
+_<guest speaker notes redacted>_
 
 The second half of class was a short lecture by Prof Bryson, followed by an activity where we mapped competencies onto a causal map from [the week four purpose mapping activity](/class-notes-wk4-f17/#notes-from-strategic-planning).
 
