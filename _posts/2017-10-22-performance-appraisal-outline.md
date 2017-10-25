@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Organzation Leadership Memo Outline
+title: Pro/Con Analysis Performance Appraisal Memo
 published: true
 ---
 
