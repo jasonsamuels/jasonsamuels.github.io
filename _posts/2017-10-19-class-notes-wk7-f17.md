@@ -16,7 +16,7 @@ Today was my daughter's third birthday. I took a PTO day at work and we all went
 
 This week's SP class featured a guest speaker who previously worked for 20 years for a consulting firm which did public sector strategy and visioning. They now work in a senior leadership role for a large nonprofit after having consulted with them to help craft their strategic plan. Now in charge of executing on strategy from the inside.
 
-_/<guest speaker notes redacted/>_
+_guest speaker notes redacted_
 
 The second half of class was a short lecture by Prof Bryson, followed by an activity where we mapped competencies onto a causal map from [the week four purpose mapping activity](/class-notes-wk4-f17/#notes-from-strategic-planning).
 
