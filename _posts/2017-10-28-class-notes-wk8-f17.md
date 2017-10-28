@@ -60,9 +60,9 @@ This week's SP class
   * Then, below the line, start writing things that need to be done in order to do that. And things that need to be done in order to do those things. Draw arrows denoting relationships (do this ----> to get here). There should be chains of actions at least four arrows long.
   * Above the line, start writing impacts of the thing you want to do. Draw arrows up to denote what you'll be able to achieve by accomplishing that.
   * At the end, mark:
-    * Two stars next to the one item which is the single most important outcome (this is your true reason for pursuing the goal)
-    * One star next to each of the next five most important outcomes
-    * A different looking star next to the most important place to start (what needs to be done first to make the rest of this possible)
+    * Two stars next to the one item which is the single most important outcome (this is your purpose for pursuing the goal)
+    * One star next to each of the next five most important outcomes (these are your goals)
+    * A different looking star next to the most important place to start (what needs to happen first to make the rest of this possible)
 
 <a href="../images/visual-map-jason-career-goal.png">![Visual strategy map for my long-term career goal](../images/visual-map-jason-career-goal.png "Visual strategy map for my long-term career goal")</a>
 
