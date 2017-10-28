@@ -10,4 +10,4 @@ I'm currently enrolled in the University of Minnesota Humphrey School pursuing a
 
 This blog is roughly 20% my personal ramblings and reflections about the experience of being a student again / 80% excessively long bullet point outlines of course materials and lectures. The purposes that this blog serves are personal, they're an outlet for my thoughts and a practical tool that I'm using to synthesize what I'm learning. Putting that all out on a public platform is an experiment in radical transparency. Deep down I'm glad that you're reading, I hope that you find the content informative and thought provoking. And if you're a classmate, I hope this inspires you to share your own notes and reflections as well, so that I and others can learn from your perspective too.
 
-So welcome and enjoy. If you'd like to chat about anything you're reading here, reach out using one of the links below.
+So welcome and enjoy. If you'd like to chat, reach out using one of the links below.
