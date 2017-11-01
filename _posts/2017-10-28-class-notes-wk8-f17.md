@@ -64,8 +64,6 @@ This week's SP class
     * One star next to each of the next five most important outcomes (these are your goals)
     * A different looking star next to the most important place to start (what needs to happen first to make the rest of this possible)
 
-<a href="../images/visual-map-jason-career-goal.png">![Visual strategy map for my long-term career goal](../images/visual-map-jason-career-goal.png "Visual strategy map for my long-term career goal")</a>
-
 * **Mapping is what we do for when thinking matters**
 * The technologies of helping with thinking are really cheap - post-it notes, flip charts, markers, pencils, etc. Compared to the costs of not thinking things through, the benefit-cost advantage is enormous.
 * Anecdote from Bryson about how he carries some of these materials in his briefcase, and will pull them out in meetings and just start sticking them up on the wall
