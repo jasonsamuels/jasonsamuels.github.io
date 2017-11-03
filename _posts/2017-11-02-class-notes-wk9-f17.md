@@ -4,7 +4,7 @@ title: Class notes - week nine, Fall 2017
 published: true
 ---
 
-After this week the semester is sixty percent complete. It feels like just as I've gotten adjusted to it the light at the end of the tunnel is on the horizon.
+After this week the semester is sixty percent complete. It feels like just as I've gotten adjusted a break is on the horizon.
 
 >Table of contents
 > * [Notes from Strategic Planning](#notes-from-strategic-planning)
