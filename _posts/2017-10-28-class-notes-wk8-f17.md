@@ -26,8 +26,6 @@ Regarding what was covered in class this week, in Strategic Planning we particip
 
 ## Notes from Strategic Planning
 
-This week's SP class
-
 * Gener Dodaro, Comptroller General of US & head of the GAO, on traits he looks for in hiring:
   * Critical thinking skills
   * ability to learn quickly
