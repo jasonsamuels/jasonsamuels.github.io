@@ -16,7 +16,7 @@ Tuesday was Halloween and I was in class instead of out trick-or-treating with m
 
 ## Notes from Strategic Planning
 
-This week's SP class featured a guest speaker who was the executive director at a local nonprofit for eight years, and currently does consulting and leadership transition work. Much of what they discussed was fairly specific to their specific case studies. My summary here is of a few nuggets of wisdom interspersed in their talk.
+This week's SP class featured a guest speaker who was the executive director at a local nonprofit for eight years, and currently does consulting and leadership transition work. Much of what they discussed was fairly specific to their case studies, which is generally not what I write about here. So my summary is instead of a handful of nuggets of wisdom gleaned from their talk.
 
 * If you can be really clear about your strategic objectives and make the case, funding can be found. Articulating a persuasive case is key to convincing funders
 * A broken organizational culture can be the result of people being micromanaged. People slowly get more demoralized as they’re given tasks to do instead of working on strategic objectives.
