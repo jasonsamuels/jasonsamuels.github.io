@@ -6,7 +6,7 @@ published: true
 
 This week's SP video lecture covered the topic of strategies and strategic plans.
 
-## Week eight VODcast
+## Week nine VODcast
 
 * There are many different ways of thinking about strategies.
   * You can think about strategy as a pattern, can also think about strategy as a way that your organization chooses to position itself
