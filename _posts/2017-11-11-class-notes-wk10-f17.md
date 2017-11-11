@@ -4,13 +4,13 @@ title: Class notes - week ten, Fall 2017
 published: true
 ---
 
-Winter is here.
+I'm not sure what to write about this week.
 
 >Table of contents
 > * [Notes from Strategic Planning](#notes-from-strategic-planning)
 > * [Notes from Strategic Human Resources Management](#notes-from-strategic-human-resources-management)
 
-This week seemed a little easier.
+The temperature has dropped and it feels like winter has arrived. Household chores are behind schedule due to the demands of school and work, we need to get window plastic up to insulate better. In the meantime the cold nights have lent themselves well to deep sleeps and family snuggles. I'll hopefully find some time this weekend to take care of that and (a little belatedly) put the hydrangeas and rose bushes to bed, but that also needs to get balanced out with the somewhat heavy school workload for this coming week. Things have also picked up at work and I'm entering a critical phase of our big database deployment project there. It feels like things are getting busy on all fronts all at once, and the next few weeks are going to be a hectic sprint to the end of the semester.
 
 ## Notes from Strategic Planning
 
