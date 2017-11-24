@@ -25,7 +25,7 @@ The group project that I'm working on for Strategic Planning is a paper analyzin
 
 *  [One Minneapolis - Racial Inequities](https://drive.google.com/file/d/0BxzeR4LBHzkJUVlMa3VfN1h4aU0/view?usp=sharing)
 *  [One Minneapolis - Equitable systems](https://drive.google.com/file/d/0BxzeR4LBHzkJTnBWcVFlMUN6S2c/view?usp=sharing)
-*  [One Minneapolis - All people](https://drive.google.com/file/d/0BxzeR4LBHzkJOU9ETktZMmhzeGc/view?usp=sharing)
+*  [One Minneapolis - All people have opportunites](https://drive.google.com/file/d/0BxzeR4LBHzkJOU9ETktZMmhzeGc/view?usp=sharing)
 *  [One Minneapolis - Informed residents](https://drive.google.com/file/d/0BxzeR4LBHzkJNURjU3FPdS1rb2M/view?usp=sharing)
 *  [One Minneapolis - Transportation](https://drive.google.com/file/d/0BxzeR4LBHzkJaTdaZGJ1U2NvOFU/view?usp=sharing)
 *  [Minneapolis Strategic Workforce Planning slide deck](https://drive.google.com/file/d/0BxzeR4LBHzkJR3BGYVhQSzF6ZWs/view?usp=sharing)

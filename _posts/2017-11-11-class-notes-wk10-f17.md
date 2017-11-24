@@ -20,7 +20,7 @@ The class was split into groups of four or five. Everyone was tasked with writin
 
 The second part was for each group member to write consequences (good and bad) on the post-it notes and place them in the top zone on the flip chart. Those are then grouped and arrows drawn - both between corresponding consequences and to denote which strategies ladder up to them. An overarching consequence is posted at the top of the map. Two dots are placed on the one or two post-its that represent the mission. Another dot is placed on up to five post-it notes that represent the goals. Finally, draw over the pencil mark arrows with black marker to make them more visible.
 
-* The map flows upward from actions --> strategies --> goals --> mission
+* **The map flows upward from actions --> strategies --> goals --> mission**
 * Oval shaped post-it notes are used because people have a natural tendency to arrange rectangle shaped notes in rows and columns
 * Strategy maps visualize the logic of a strategic plan
 * The exercise was completed in just about two hours. In a real-world scenario there would be a trained facilitator at each map, start with dinner and drinks the night before (because alcohol dissolves the superego), do a half-day of mapping, lunch, then review and wrap up afterward
