@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Strategic Planning in a Nutshell
+title: Key Strategic Planning Concepts
 published: true
 ---
 
