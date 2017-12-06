@@ -74,3 +74,32 @@ for government.
   * Another potential threat is posed by the enormous impact of IT - technology adds efficiency, but also depersonalizes functions that were built on human interaction and individual judgment. Whether or not this is good or bad is debatable
 * Ultimately, public organizations must adopt at least some of the recruitment and selection strategies described simply because to do otherwise would be self-defeating.
 * The primary challenge for HR professionals is to select the reforms most suitable to their own settings, and to adapt them to local needs
+
+### Public Administrative Theory and the Separation of Powers, Rosenbloom (1983)
+
+* the central problem of contemporary public administrative theory is that it is derived from three disparate approaches to the basic question of what public administration is: "managerial," "political," and "legal."
+* their primary influence on public administration has been to pull it in three separate directions
+* <b>Managerial approach</b>
+  * grew largely out of the civil service reform movement of the late 19th century
+  * three core values of the managerial approach to public administration
+  * geared toward maximization of effectiveness, efficiency, and economy
+  * managerial approach was strengthened by Frederick Taylor and the scientific management movement
+  * The 'goodness' or 'badness' of a particular organizational pattern was a mathematical relationship of 'inputs' to 'outputs.'
+  * The managerial approach to public administration promotes an impersonal view of individuals.
+  * impersonal view of individuals is deeply ingrained and considered essential to the maximization of efficiency, economy, and effectiveness.
+* <b>Political approach</b>
+  * unlike the origin of the managerial approach, which stressed what public administration ought to be, the political approach developed from an analysis of apparent empirical reality.
+  * emphasis is inevitably placed on a different set of values than those promoted by the managerial approach
+  * the political approach to public administration stresses the values of representativeness, political responsiveness, and accountability
+  * values sought by the political approach to public administration are frequently in tension with those of the managerial approach
+  * A socially representative public service may not be the most efficient one
+  * The political approach to public administration tends to view the individual as part of an aggregate group, does not depersonalize the individual
+* <b>Legal approach</b>
+  * The legal approach to public administration embodies three central values: _procedural due process_, _individual substantive rights_, and _equity_ (the value of fairness in the result of conflicts between private parties and the government)
+  * One of the major features of the values of the legal approach to public administration is the downgrading of the cost/benefit reasoning associated with the managerial approach
+  * central focus tends to be on the nature of the individual's rights, rather than on the costs to society of securing those rights
+  * To a considerable extent, this model is at odds with all the values embodied in the other two approaches: It militates against efficiency, economy, managerial effectiveness, representativeness, responsiveness, and political accountability. It is intended, rather, to afford maximum protection of the rights of private parties against illegal, unconstitutional, or invidious administrative action.
+* each of these approaches is associated with the values embodied in a different branch of government:
+  * managerial = executive
+  * political = legislative
+  * judicial = judiciary
