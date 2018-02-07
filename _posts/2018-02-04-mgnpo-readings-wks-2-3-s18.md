@@ -8,10 +8,21 @@ Class themes were ____. This is the last reading of the semester!
 
 > ## Table of contents
 >
-> ### Week 2
->
-> ### Week 3
->
+> ### [Week 2](#week-2-1)
+> * [Managing Nonprofit Organizations, Tschirhart and Bielefeld (2012)](#managing-nonprofit-organizations-tschirhart-and-bielefeld-2012)
+>   * [Chapter 1 - Understanding Nonprofit Organizations](#chapter-1---understanding-nonprofit-organizations)
+>   * [Chapter 3 - Founding Nonprofits and the Business Case](#chapter-3---founding-nonprofits-and-the-business-case)
+>   * [Chapter 4 - Organizational structure](#chapter-4---organizational-structure)
+> * [National Council of Nonprofits Fast Facts about the Nonprofit Sector (2017)](#national-council-of-nonprofits-fast-facts-about-the-nonprofit-sector-2017)
+> * [Minnesota Council of Nonprofits Nonprofit Economy Report (2016)](#minnesota-council-of-nonprofits-nonprofit-economy-report-2016)
+> * [Salamon et al. What do Nonprofits Stand For? (2012)](#salamon-et-al-what-do-nonprofits-stand-for-2012)
+> * [Willets What is a Non-Governmental Organization?](#willets-what-is-a-non-governmental-organization)
+> ### [Week 3](#week-3-1)
+> * [The Global Journal - NGOs: A Long and Turbulent History (2013)](#the-global-journal---ngos-a-long-and-turbulent-history-2013)
+> * [Turner Why Has the Number of International Non-Governmental Organizations Exploded since 1960? (2010)](#turner-why-has-the-number-of-international-non-governmental-organizations-exploded-since-1960-2010)
+> * [Dollery and Wallis - Economic Theories of the Voluntary Sector: a survey of Government Failure and Market Failure Approaches (2002)</h3>](#dollery-and-wallis---economic-theories-of-the-voluntary-sector-a-survey-of-government-failure-and-market-failure-approaches-2002)
+> * [Hall - Historical Perspectives of Nonprofit Organizations in the United States (2016)](#hall---historical-perspectives-of-nonprofit-organizations-in-the-united-states-2016)
+> * [Clemens - The constitution of Citizens: Political Theories of the Nonprofit Sector (2010)](#clemens---the-constitution-of-citizens-political-theories-of-the-nonprofit-sector-2010)
 
 ## Week 2
 
