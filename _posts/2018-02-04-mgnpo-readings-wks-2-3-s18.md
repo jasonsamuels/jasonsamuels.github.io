@@ -4,7 +4,7 @@ title: Reading summaries - Management and Governance of Nonprofit Organizations 
 published: true
 ---
 
-Class themes were ____. This is the last reading of the semester!
+Class themes were _The Distinctive Challenge_ and _Historical Perspectives and Theories of the Sector_
 
 > ## Table of contents
 >
