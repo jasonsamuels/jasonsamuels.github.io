@@ -20,7 +20,7 @@ Class themes were _The Distinctive Challenge_ and _Historical Perspectives and T
 > ### [Week 3](#week-3-1)
 > * [The Global Journal - NGOs: A Long and Turbulent History (2013)](#the-global-journal---ngos-a-long-and-turbulent-history-2013)
 > * [Turner Why Has the Number of International Non-Governmental Organizations Exploded since 1960? (2010)](#turner-why-has-the-number-of-international-non-governmental-organizations-exploded-since-1960-2010)
-> * [Dollery and Wallis - Economic Theories of the Voluntary Sector: a survey of Government Failure and Market Failure Approaches (2002)</h3>](#dollery-and-wallis---economic-theories-of-the-voluntary-sector-a-survey-of-government-failure-and-market-failure-approaches-2002)
+> * [Dollery and Wallis - Economic Theories of the Voluntary Sector: a survey of Government Failure and Market Failure Approaches (2002)](#dollery-and-wallis---economic-theories-of-the-voluntary-sector-a-survey-of-government-failure-and-market-failure-approaches-2002)
 > * [Hall - Historical Perspectives of Nonprofit Organizations in the United States (2016)](#hall---historical-perspectives-of-nonprofit-organizations-in-the-united-states-2016)
 > * [Clemens - The constitution of Citizens: Political Theories of the Nonprofit Sector (2010)](#clemens---the-constitution-of-citizens-political-theories-of-the-nonprofit-sector-2010)
 
