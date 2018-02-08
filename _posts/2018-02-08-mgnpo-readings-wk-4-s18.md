@@ -127,4 +127,4 @@ understood and addressed effectively
     * some empirical evidence indicates that the appropriation of “human rights” discourses by development NGOs has had limited impact on the broader human rights movement
     * conceptual confusion over what, precisely, “rights-based thinking" means
     * As a result, some donors will begin to lose interest
-* This article has demonstrated that the jury is still out on whether the rightsbased approach represents a fundamental paradigm shift for the global development sector.
+* This article has demonstrated that the jury is still out on whether the rights-based approach represents a fundamental paradigm shift for the global development sector.
