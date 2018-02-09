@@ -7,8 +7,8 @@ published: true
 Class theme was _The Importance of Context_
 
 > ## Table of contents
-> *
-> *
+> * [Bryson - What to do When Stakeholders Matter (2004)](#bryson---what-to-do-when-stakeholders-matter-2004)
+> * [Kindornay et al. Rights-Based Approaches to Development: Implications for NGOs (2012)](#kindornay-et-al-rights-based-approaches-to-development-implications-for-ngos-2012)
 
 
 ### Bryson - What to do When Stakeholders Matter (2004)
