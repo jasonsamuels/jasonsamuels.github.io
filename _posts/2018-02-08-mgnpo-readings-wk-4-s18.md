@@ -86,7 +86,7 @@ understood and addressed effectively
 * By 2005, several prominent international NGOs had all announced their commitment to the rights-based approach
 * The rights-based sector, in other words, now involves substantial development aid monies.
 * Five hypotheses:
-  * H1: winners and losers: Rights-based donors seek like-minded NGOs
+  * <b>H1: winners and losers: Rights-based donors seek like-minded NGOs</b>
     * Existing NGOs will have to become familiar with a new language-"rights talk"-and gain at least a passing familiarity with international human rights
     * One unintended consequence of all this may be overloading recipient communities with too many demands
     * another may be overloading NGOs with excessive administrative and reporting commitments
@@ -95,7 +95,7 @@ understood and addressed effectively
     * strongly correlated with the NGOs’ ability or willingness to adopt, or not adopt, the rights-based approach
     * organizations that have never before received development aid should begin entering the global development arena
     * most pronounced among the Tier 3–5 NGOs
-  * H2: Increasing emphasis on advocacy: Development NGOs will increasingly boost their advocacy work while curtailing their service delivery efforts
+  * <b>H2: Increasing emphasis on advocacy: Development NGOs will increasingly boost their advocacy work while curtailing their service delivery efforts</b>
     * Development NGOs, in this view, should abandon service delivery and focus instead on creating and strengthening local accountability mechanisms
     * In this view, NGO service delivery treats symptoms rather than causes
     * second school of rights-based thought is a bit more flexible, arguing that service delivery can empower groups and individuals, and lend rights-based groups the means to gain citizen trust and commitment
@@ -107,7 +107,7 @@ understood and addressed effectively
     * expect development NGOs increasingly to boost their advocacy activities
     * overall levels of NGO service delivery are not likely to substantially decline
     * should see more efforts to combine advocacy and service together
-  * H3. Growing challenges to Universalist Human Rights Discourse: As the rights-based paradigm expands and deepens, we expect more cultural pragmatism and discursive flexibility
+  * <b>H3: Growing challenges to Universalist Human Rights Discourse: As the rights-based paradigm expands and deepens, we expect more cultural pragmatism and discursive flexibility</b>
     * merger of human rights and development
     * increasingly forces rights-based groups to interact with ordinary people
     * As a result, rights-based workers can no longer assume that they speak the same general language as their would-be constituents
@@ -115,12 +115,12 @@ understood and addressed effectively
     * the further an NGO is located downstream, the more likely it is to engage in the up close and personal management of grass roots constituency relations
     * **Tensions between the language of ordinary people and that of human rights were particularly acute, they said, when it came to issues of gender and family**
     * As these learning processes unfold, alternative interpretations of rights will trickle up to higher-tier actors, infusing the international discourse with greater humility, nuance, and contextual knowledge. The understanding and use of contextually specific language will be most robust at the bottom of the NGO pyramid
-  *  H4: Increasing calls for Tier 1 and Tier 2 accountability: The rights-based approach insists that all global development sector actors be held accountable
+  * <b>H4: Increasing calls for Tier 1 and Tier 2 accountability: The rights-based approach insists that all global development sector actors be held accountable</b>
     * Rights-based proponents argue that the paradigm will enhance accountability and reduce power differentials throughout the global development sector.
     * there are very few formalized mechanisms for holding non-state actors accountable
     * Lower-tier NGOs will be hard pressed to hold donors, international financial institutions, and upper-tier NGOs truly accountable
     * Few of these efforts are likely to trigger real change, however, as the sector’s fundamental political economy and power relations remain unchanged
-  * H5: The Null Hypothesis: The development world is periodically swept by new paradigms and fads, and the rights-based approach will ultimately be no different
+  * <b>H5: The Null Hypothesis: The development world is periodically swept by new paradigms and fads, and the rights-based approach will ultimately be no different</b>
     * null hypothesis, which argues that there will be no real change among international and local NGOs.
     * rights-based approach is by now more than ten years old, and proponents are still struggling to demonstrate its value
     * there is little baseline data and the long-term nature of rights-based development makes monitoring and evaluation difficult
