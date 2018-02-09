@@ -30,27 +30,27 @@ Class theme was _The Importance of Context_
     * purpose should guide the choices concerning who should be involved in the analyses and how
     * In general, people should be involved if they have information that cannot be gained otherwise, or if their participation is necessary to assure successful implementation
     * Five stakeholder identification and analysis techniques are particularly relevant to helping organize participation:
-      * _a process for choosing stakeholder analysis participants
-      * the basic stakeholder analysis technique
-      * power versus interest grids
-      * stakeholder influence diagrams
-      * the participation planning matrix_
+      * _a process for choosing stakeholder analysis participants_
+      * _the basic stakeholder analysis technique_
+      * _power versus interest grids_
+      * _stakeholder influence diagrams_
+      * _the participation planning matrix_
   * <b>creating ideas for strategic interventions</b>
     * Creating ideas for strategic interventions involves problem formulation and solution search, but also depends on understanding political feasibility
     * Six additional techniques are particularly relevant to creating ideas for strategic interventions. They are:
-      * _bases of power and directions of interest diagrams
-      * finding the common good and the structure of a winning argument
-      * tapping individual stakeholder interests to pursue the common good_
+      * _bases of power and directions of interest diagrams_
+      * _finding the common good and the structure of a winning argument_
+      * _tapping individual stakeholder interests to pursue the common good_
         * Techniques discussed so far have approached problem or issue framing in terms of the "common good" searching for themes, concerns or goals shared among key stakeholders. The analyses have downplayed the significance of opposition. The techniques discussed next begin to highlight how opposition needs to be taken into account.
-      * _stakeholder-issue interrelationship diagrams
-      * problem-frame stakeholder maps
-      * ethical analysis grids_
+      * _stakeholder-issue interrelationship diagrams_
+      * _problem-frame stakeholder maps_
+      * _ethical analysis grids_
   * <b>building a winning coalition around proposal development, review and adoption</b>
     * Once stakeholders and their interests have been identified and understood, it is typically still advisable to do additional analyses in order to develop proposals that can garner adequate support
     * Three techniques considered here:
-      * _stakeholder support versus opposition grids
-      * stakeholder role plays
-      * policy attractiveness versus stakeholder capability grids_
+      * _stakeholder support versus opposition grids_
+      * _stakeholder role plays_
+      * _policy attractiveness versus stakeholder capability grids_
   * <b>implementing, monitoring and evaluating strategic interventions</b>
     * still important to focus directly on stakeholders during implementation
     * Technique: _policy implementation strategy development grid_
