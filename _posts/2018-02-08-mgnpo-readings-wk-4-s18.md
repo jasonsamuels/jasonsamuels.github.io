@@ -10,7 +10,6 @@ Class theme was _The Importance of Context_
 > *
 > *
 
-
 ### Bryson - What to do When Stakeholders Matter (2004)
 * This article focuses specifically on how and why managers might go about using stakeholder identification and analysis techniques in order to help their organizations meet their mandates, fulfill their missions and create public value.
 * The article argues that **wise use of stakeholder analyses can help frame issues that are solvable in ways that are technically feasible and politically acceptable** and that advance the common good.
