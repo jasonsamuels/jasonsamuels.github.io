@@ -4,10 +4,11 @@ title: Reading summaries - Stakeholder Analysis skills workshop, Spring 2018
 published: true
 ---
 
-For this half credit Stakeholder Analysis skills workshop class, there were three required readings. One of them was a resource section from John Bryson's _Strategic Planning for Public and Nonprofit Organizations_ which I read last semester in Prof. Bryson's Strategic Planning course. I'm not summarizing that one here, as it covers techniques for practice rather than research and concepts. Of the other two readings, one was also a required reading in [Management and Governance of Nonprofit Organizations](/mgnpo-readings-wk-4-s18/). The outlines posted here and for that class week are identical.
+For this half credit Stakeholder Analysis skills workshop class, there were three required readings. One of them was a resource section from John Bryson's _Strategic Planning for Public and Nonprofit Organizations_ which I read last semester in Prof. Bryson's Strategic Planning course. I'm not summarizing that one here, as it covers techniques for practice rather than research and concepts. Of the other two readings, one was also a required reading in [Management and Governance of Nonprofit Organizations, Week 4](/mgnpo-readings-wk-4-s18/). The outlines posted here and for that class week are identical.
 
 > ## Table of contents
-> *
+> * [Nutt, P. C. - Decision-making processes prone to success and failure (2002)](#nutt-p-c---decision-making-processes-prone-to-success-and-failure-2002)
+?   * [Real world application of the idea-imposition process model](#real-world-application-of-the-idea-imposition-process-model)
 > * [Bryson - What to do When Stakeholders Matter (2004)](#bryson---what-to-do-when-stakeholders-matter-2004)
 
 ### Nutt, P. C. - Decision-making processes prone to success and failure (2002)
@@ -114,6 +115,9 @@ As I read this, and (as always) paid attention to the headlines of the day, this
 Time will tell whether that particular idea-imposition process leads to success or failure
 
 ### Bryson - What to do When Stakeholders Matter (2004)
+
+_This outline also appears in [Management and Governance of Nonprofit Organizations, Week 4](/mgnpo-readings-wk-4-s18/)__
+
 * This article focuses specifically on how and why managers might go about using stakeholder identification and analysis techniques in order to help their organizations meet their mandates, fulfill their missions and create public value.
 * The article argues that **wise use of stakeholder analyses can help frame issues that are solvable in ways that are technically feasible and politically acceptable** and that advance the common good.
 * The term _stakeholder_  refers to persons, groups or organizations that must somehow be taken into account by leaders, managers and front-line staff
