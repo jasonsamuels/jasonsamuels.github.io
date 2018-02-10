@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Reading summaries - Management and Governance of Nonprofit Organizations - weeks two and three, Spring 2018
+title: Reading summaries - Management and Governance of Nonprofit Organizations - week four, Spring 2018
 published: true
 ---
 
 Class theme was _The Importance of Context_
 
 > ## Table of contents
-> *
-> *
+> * [Bryson - What to do When Stakeholders Matter (2004)](#bryson---what-to-do-when-stakeholders-matter-2004)
+> * [Kindornay et al. Rights-Based Approaches to Development: Implications for NGOs (2012)](#kindornay-et-al-rights-based-approaches-to-development-implications-for-ngos-2012)
 
 ### Bryson - What to do When Stakeholders Matter (2004)
 * This article focuses specifically on how and why managers might go about using stakeholder identification and analysis techniques in order to help their organizations meet their mandates, fulfill their missions and create public value.
@@ -24,35 +24,35 @@ Class theme was _The Importance of Context_
 * Because attention to stakeholders is so important, stakeholder analyses become important.
 * **strategic management processes that employ a reasonable number of competently done stakeholder analyses are more likely to be successful**
 * fifteen stakeholder identification and analysis techniques, grouped into four categories:
-  * organizing participation
+  * <b>organizing participation</b>
     * Stakeholder analyses are undertaken for a purpose and that purpose should be articulated as clearly as it can be before the analyses begin – while also understanding that purposes may change over time. The purpose should
     * purpose should guide the choices concerning who should be involved in the analyses and how
     * In general, people should be involved if they have information that cannot be gained otherwise, or if their participation is necessary to assure successful implementation
     * Five stakeholder identification and analysis techniques are particularly relevant to helping organize participation:
-      * a process for choosing stakeholder analysis participants
-      * the basic stakeholder analysis technique
-      * power versus interest grids
-      * stakeholder influence diagrams
-      * the participation planning matrix
-  * creating ideas for strategic interventions
+      * _a process for choosing stakeholder analysis participants_
+      * _the basic stakeholder analysis technique_
+      * _power versus interest grids_
+      * _stakeholder influence diagrams_
+      * _the participation planning matrix_
+  * <b>creating ideas for strategic interventions</b>
     * Creating ideas for strategic interventions involves problem formulation and solution search, but also depends on understanding political feasibility
     * Six additional techniques are particularly relevant to creating ideas for strategic interventions. They are:
-      * bases of power and directions of interest diagrams
-      * finding the common good and the structure of a winning argument
-      * tapping individual stakeholder interests to pursue the common good
+      * _bases of power and directions of interest diagrams_
+      * _finding the common good and the structure of a winning argument_
+      * _tapping individual stakeholder interests to pursue the common good_
         * Techniques discussed so far have approached problem or issue framing in terms of the "common good" searching for themes, concerns or goals shared among key stakeholders. The analyses have downplayed the significance of opposition. The techniques discussed next begin to highlight how opposition needs to be taken into account.
-      * stakeholder-issue interrelationship diagrams
-      * problem-frame stakeholder maps
-      * ethical analysis grids
-  * building a winning coalition around proposal development, review and adoption
+      * _stakeholder-issue interrelationship diagrams_
+      * _problem-frame stakeholder maps_
+      * _ethical analysis grids_
+  * <b>building a winning coalition around proposal development, review and adoption</b>
     * Once stakeholders and their interests have been identified and understood, it is typically still advisable to do additional analyses in order to develop proposals that can garner adequate support
     * Three techniques considered here:
-      * stakeholder support versus opposition grids
-      * stakeholder role plays
-      * policy attractiveness versus stakeholder capability grids
-  * implementing, monitoring and evaluating strategic interventions
+      * _stakeholder support versus opposition grids_
+      * _stakeholder role plays_
+      * _policy attractiveness versus stakeholder capability grids_
+  * <b>implementing, monitoring and evaluating strategic interventions</b>
     * still important to focus directly on stakeholders during implementation
-    * Technique: policy implementation strategy development grid
+    * Technique: _policy implementation strategy development grid_
 * policy analysis is a kind of art in which problems must be solvable, at least tentatively or in principle, in order to be
 understood and addressed effectively
 * **stakeholder analyses are a key to identifying problems that can and should be solved**
@@ -85,7 +85,7 @@ understood and addressed effectively
 * By 2005, several prominent international NGOs had all announced their commitment to the rights-based approach
 * The rights-based sector, in other words, now involves substantial development aid monies.
 * Five hypotheses:
-  * H1: winners and losers: Rights-based donors seek like-minded NGOs
+  * <b>H1: winners and losers: Rights-based donors seek like-minded NGOs</b>
     * Existing NGOs will have to become familiar with a new language-"rights talk"-and gain at least a passing familiarity with international human rights
     * One unintended consequence of all this may be overloading recipient communities with too many demands
     * another may be overloading NGOs with excessive administrative and reporting commitments
@@ -94,7 +94,7 @@ understood and addressed effectively
     * strongly correlated with the NGOs’ ability or willingness to adopt, or not adopt, the rights-based approach
     * organizations that have never before received development aid should begin entering the global development arena
     * most pronounced among the Tier 3–5 NGOs
-  * H2: Increasing emphasis on advocacy: Development NGOs will increasingly boost their advocacy work while curtailing their service delivery efforts
+  * <b>H2: Increasing emphasis on advocacy: Development NGOs will increasingly boost their advocacy work while curtailing their service delivery efforts</b>
     * Development NGOs, in this view, should abandon service delivery and focus instead on creating and strengthening local accountability mechanisms
     * In this view, NGO service delivery treats symptoms rather than causes
     * second school of rights-based thought is a bit more flexible, arguing that service delivery can empower groups and individuals, and lend rights-based groups the means to gain citizen trust and commitment
@@ -106,7 +106,7 @@ understood and addressed effectively
     * expect development NGOs increasingly to boost their advocacy activities
     * overall levels of NGO service delivery are not likely to substantially decline
     * should see more efforts to combine advocacy and service together
-  * H3. Growing challenges to Universalist Human Rights Discourse: As the rights-based paradigm expands and deepens, we expect more cultural pragmatism and discursive flexibility
+  * <b>H3: Growing challenges to Universalist Human Rights Discourse: As the rights-based paradigm expands and deepens, we expect more cultural pragmatism and discursive flexibility</b>
     * merger of human rights and development
     * increasingly forces rights-based groups to interact with ordinary people
     * As a result, rights-based workers can no longer assume that they speak the same general language as their would-be constituents
@@ -114,12 +114,12 @@ understood and addressed effectively
     * the further an NGO is located downstream, the more likely it is to engage in the up close and personal management of grass roots constituency relations
     * **Tensions between the language of ordinary people and that of human rights were particularly acute, they said, when it came to issues of gender and family**
     * As these learning processes unfold, alternative interpretations of rights will trickle up to higher-tier actors, infusing the international discourse with greater humility, nuance, and contextual knowledge. The understanding and use of contextually specific language will be most robust at the bottom of the NGO pyramid
-  *  H4: Increasing calls for Tier 1 and Tier 2 accountability: The rights-based approach insists that all global development sector actors be held accountable
+  * <b>H4: Increasing calls for Tier 1 and Tier 2 accountability: The rights-based approach insists that all global development sector actors be held accountable</b>
     * Rights-based proponents argue that the paradigm will enhance accountability and reduce power differentials throughout the global development sector.
     * there are very few formalized mechanisms for holding non-state actors accountable
     * Lower-tier NGOs will be hard pressed to hold donors, international financial institutions, and upper-tier NGOs truly accountable
     * Few of these efforts are likely to trigger real change, however, as the sector’s fundamental political economy and power relations remain unchanged
-  * H5: The Null Hypothesis: The development world is periodically swept by new paradigms and fads, and the rights-based approach will ultimately be no different
+  * <b>H5: The Null Hypothesis: The development world is periodically swept by new paradigms and fads, and the rights-based approach will ultimately be no different</b>
     * null hypothesis, which argues that there will be no real change among international and local NGOs.
     * rights-based approach is by now more than ten years old, and proponents are still struggling to demonstrate its value
     * there is little baseline data and the long-term nature of rights-based development makes monitoring and evaluation difficult
