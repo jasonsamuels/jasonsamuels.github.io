@@ -116,7 +116,7 @@ Time will tell whether that particular idea-imposition process leads to success 
 
 ### Bryson - What to do When Stakeholders Matter (2004)
 
-_This outline also appears in [Management and Governance of Nonprofit Organizations, Week 4](/mgnpo-readings-wk-4-s18/)__
+_This outline also appears in [Management and Governance of Nonprofit Organizations, Week 4](/mgnpo-readings-wk-4-s18/)_
 
 * This article focuses specifically on how and why managers might go about using stakeholder identification and analysis techniques in order to help their organizations meet their mandates, fulfill their missions and create public value.
 * The article argues that **wise use of stakeholder analyses can help frame issues that are solvable in ways that are technically feasible and politically acceptable** and that advance the common good.
