@@ -8,7 +8,7 @@ For this half credit Stakeholder Analysis skills workshop class, there were thre
 
 > ## Table of contents
 > * [Nutt, P. C. - Decision-making processes prone to success and failure (2002)](#nutt-p-c---decision-making-processes-prone-to-success-and-failure-2002)
-?   * [Real world application of the idea-imposition process model](#real-world-application-of-the-idea-imposition-process-model)
+? * [Real world application of the idea-imposition process model](#real-world-application-of-the-idea-imposition-process-model)
 > * [Bryson - What to do When Stakeholders Matter (2004)](#bryson---what-to-do-when-stakeholders-matter-2004)
 
 ### Nutt, P. C. - Decision-making processes prone to success and failure (2002)
