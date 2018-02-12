@@ -442,8 +442,359 @@ Class theme was _The Ethics and Accountability Challenge, Self-Regulation and th
     * The nonprofit provides a privacy policy on its website or by request that describes how donor information is collected and used. It allows donors to “opt-out”
   * _Soliciting Practices_
     * If the nonprofit is engaged in cause-related marketing or its name is used in connection with an event or the sale or marketing of goods, they provide accurate information about the percentage of gross revenue that the nonprofit receives.
-  
 
+### Minnesota Council on Nonprofits’ - Principles and Practices for Nonprofit Excellence (2014)
+* In 1994 MCN became the first state association of nonprofits to develop a set of accountability principles and management practices
+* revised edition completely updates those original standards while remaining true to MCN’s longstanding goal of open access
+* Principles and Practices for Nonprofit Excellence are based on the fundamental values of quality, responsibility and accountability
+* 11 accountability principles distinguish the nonprofit sector from government and the business sector
+* 192 management practices provide specific guidelines for individual organizations to evaluate and improve their operations, governance, human resources, advocacy, financial management, and fundraising.
+* The Principles and Practices for Nonprofit Excellence are not meant for use by funders or government to evaluate nonprofit organizations
+* Given some blurring of the lines between the three sectors of the economy, this document is designed to support the effective functioning of our sector by recommending specific best practices.
+* Because of the sector’s diversity by size, region and activity area, each organization must determine whether or not an individual practice is appropriate for its current situation.
+* a large list of recommended practices presents challenges for small organizations with limited resources.
+* To make this task more practical and achievable, MCN provides additional tools and resources on its website to help organizations prioritize practices for different sizes and stages of organization. These tools address questions about why practices are recommended and the steps organizations can take to achieve them
+* The creativity and diversity of the nonprofit sector and the significant variations in local conditions means that some practices may not fit every situation
+* The Principles of Nonprofit Excellence:
+  * <b>Governance</b>
+    * _Board Characteristics and Qualifications_
+      * Nonprofits should strive to have board members who are representative of the organization’s constituents
+      * Board members should be committed to the mission and the success of the nonprofit
+      * Board members should actively develop an understanding of the mission, ongoing activities of the organization
+      * Board members should value diversity and understand the role of broad participation and the importance of including diverse groups of people
+      * Board members are expected to volunteer their time, help raise external funds and make personal financial contributions
+      * Board members should receive no monetary compensation for their board duties other than reimbursement for board-related expenses
+    * _Board Composition_
+      * Nonprofit boards should be made up of individual volunteers who are committed to representing the best interests of the organization
+      * boards should seek out new potential board members from outside the organization’s traditional circles and should include board representatives from the communities the
+      * nonprofit boards should consist of at least seven individuals.
+      * Nonprofit boards must have a chair and a treasurer and should have a vice-chair and secretary
+      * If staff membership on the board is deemed necessary, it should be limited to the executive director
+    * _Board Responsibilities_
+      * Board members should gain a full understanding of their board roles and responsibilities by being provided with:
+        * a clear set of expectations and responsibilities
+        * bylaws, articles and other key documents
+        * an introduction to the work of the organization
+        * ongoing opportunities to discuss and review responsibilities
+      * Board members are responsible for fully understanding their legal and fiduciary responsibilities
+      * Board members are responsible for the ongoing financial health of the organization and should understand the content and significance of the organization’s financial statements
+      * Board members are responsible for keeping suitably informed in order to actively participate
+      * Nonprofit board members are responsible to make decisions in the best interest of the organization and no other party, including themselves. should have a conflict of interest policy that includes a disclosure form
+      * Nonprofit board members are responsible for upholding the organization’s mission and using its resources wisely
+      * Board members should be willing to publicly advocate for the organization
+    * _Board Operations_
+      * Boards should have at least six meetings a year and expect regular attendance
+      * term limits of no more than nine consecutive years
+      * adopt practices that maximize participation, including accommodating remote or electronic participation in meetings
+      * organize committees as needed
+      * The board chair should pay particular attention to helping the board be aware of its obligations
+      * annually evaluate its own performance and review the results with an eye toward improving
+  * <b>Transparency and Accountability</b>
+    * _Accountability_
+      * comply with all legally required reporting procedures
+      * organization’s board should approve its financial audits; the executive director and the principal financial manager should attest to the audit’s findings
+      * establish clear performance measurements, compare results with other organizations when possible and share these results
+      * adhere to the established industry and regulatory standards that apply to its particular activity area
+    * _Accessibility and Public Input_
+      * make information available to the organization’s constituents that describes the board’s decisions and decision-making processes
+      * provide its constituents with ongoing opportunities to interact with the organization’s leadership about its activities and be responsive to raised concerns
+    * _Public Information_
+      * produce an annual report that contains information on its activities and performance. should include:
+        * organization’s mission, activities, results and impact
+        * how individuals can access its programs and services
+        * financial information
+      * make certain data available to the public, including:
+        * IRS Form 990 for the previous three years
+        * IRS Form 1023, Application for Recognition of Exemption
+      * A nonprofit should provide multiple ways for constituents to request information or provide input.
+    * _Fairness and Equity Practices_
+      * ensure nondiscriminatory service to their constituents
+      * disclose how constituent information will be used and ensure that the organization complies with an individual’s ex- pressed confidentiality and privacy preferences
+      * Information regarding fees and services should be made readily available to the public, including available discounts and scholarships.
+  * <b>Financial Management</b>
+    * _Functions_
+      * The board should annually review and approve a detailed written budget
+      * Individuals responsible for an organization’s financial reporting should prepare and present to the board consistent, timely and accurate financial reports at least bimonthly
+      * ensure separation of financial duties - a system of internal controls should be formally adopted by the board and appropriate to the size of the organization’s financial and human resources
+      * adopt written financial procedures and have appropriate financial management software
+      * be conscientious in negotiating contract terms to ensure that payment levels, conditions and reporting requirements are consistent with the mission of the organization and the interest of the people being served
+      * periodically assess their risks, take appropriate actions to minimize these risks and purchase appropriate types and levels of insurance
+      * use comparable market data to set compensation for the organization’s executive director and stay informed of compensation levels for other key personnel
+      * strictly prohibit financial loans to board members, the executive director and other key personnel
+      * Board members and key staff should clearly understand how to read and interpret financial statements
+      * The board treasurer should take a leadership role in helping the board understand its duties with regard to financial management
+    * _Compliance_
+      * comply with all financial regulations
+      * complete the relevant version of the IRS Form 990 annually
+      * have its financial statements audited, certified and prepared in accordance with general accepting accounting principles (GAAP).
+      * have systems in place, including a whistleblower policy, to protect individuals who report financial misconduct
+    * _Sustainability_
+      * openly communicate the annual reporting information contained in its IRS Form 990 for the previous three years
+      * secure appropriate levels of funding to carry out their missions and activities and, when possible, diversify revenue sources
+      * work diligently to avoid recurring deficits and aim towards building up sufficient operating reserves
+      * spend funds in compliance with conditions attached to their funding
+      * ensure that its assets are used solely for the benefit of the organization, have a clear conflict of interest policy
+  * <b>Fundraising</b>
+    * _Policies_
+      * adopt a fundraising plan and systems to ensure that sufficient charitable contributions are raised
+      * have a policy that sets out conditions under which it would decline funds or in-kind donations that would otherwise bring about adverse conditions
+      * ensure that a high percentage of each dollar raised goes directly to funding its programs and services.
+      * Compensation for fundraising personnel and contractors should not be based on a percentage of funds raised or other commission-based formulas
+      * ensure that any outside individual or organization that solicits funds on its behalf meets the Minnesota Attorney General’s registration requirements and all other regulations
+    * _Accountability to Donors_
+      * comply with all federal, state and local laws concerning fundraising practice
+      * conducting their fundraising activities in a manner that upholds the public’s trust
+      * use funds consistent with donor intent and comply with specific conditions
+      * strive for a balance between publicly recognizing charitable contributions and maintaining donor confidentiality
+      * should respect donor preferences in the handling of their information and should implement systems and policies that secure this information
+    * _Communication with Donors_
+      * include clear, accurate and honest information about the organization, its activities, and when, where and for whom the funds will be used
+      * send a written acknowledgment to all donors who make a “quid pro quo” donation in excess of $75. Also send a written acknowledgment to all donors who made contributions of $250 or more in the previous calendar year
+      * honor donor preferences regarding how often donors are contacted and how they receive that communication.
+      * regularly communicate with constituents regarding their activities
+      * plan its communications to tell the story of the organization and maintain consistent, mission-focused and timely communication
+      * establish a thorough understanding of their key audiences and regularly assess the effectiveness of communication strategies
+  * <b>Evaluation</b>
+    * _Components of Evaluation_
+      * have a defined, ongoing, systematic and sustainable process for improving their services, programs and internal processes
+      * take into account and respond to the experience, needs and satisfaction of the constituents
+      * conduct program evaluations in ways that are culturally sensitive and appropriate
+      * measurement systems should be practical and useful to improve ongoing processes
+      * Performance measures should be realistic and appropriate to the size and scope of the organization
+      * Measurement should include information on outputs, outcomes, impact and satisfaction with activities and services provided.
+      * Performance measures should be specific and based on evidence
+      * Measurements may include both qualitative and quantitative data.
+      * Measurements should include data on efficiency and effectiveness.
+      * strive to improve the evaluation skills of staff while contracting with other organizations or consultants to serve as external evaluators
+      * include realistic evaluation expenses in all project budgets
+      * Personal information collected from individuals through the evaluation process must be kept confidential
+    * _Uses of Evaluation_
+      * use evaluation results to gauge organizational effectiveness
+      * share evaluation results with a broad range of constituents
+      * evaluation should be ongoing for continuous improvement and should include input from a wide variety of stakeholders.
+      * be open to receiving feedback from members of the public
+  * <b>Planning</b>
+    * _Mission, Vision and Values_
+      * establish and regularly review mission, vision and values statement
+      * mission statement should be linked to the values of the organization and its vision
+      * mission, vision and values should be evaluated regularly by the board to determine if they still meet the evolving needs
+    * _Components of Planning_
+      * Plans should align with the organization’s mission, vision and values.
+      * actively make adjustments to plans to ensure that assumptions and activities adapt
+      * should be based on a careful assessment of the multiple resources necessary for implementation
+      * create plans with evaluation in mind, assessing what processes and goals they intend to use and how they will measure their successful completion
+      * should be informed by a review of the external factors that affect the organization’s operating environment
+      * should be responsive to community needs and actively engage and gather input from a variety of sources
+      * should confer with their counterparts to determine the need for services, the best practices in delivering them
+      * provide timely notice of significant changes to partner organizations or constituents
+    * _Plan Types_
+      * _Strategic Plans_
+        * establish a rigorous process of setting clearly defined, long-term goals and objectives
+        * Strategic planning should articulate how the strategies chosen are expected to accomplish the organization’s stated goals.
+        * Goals and objectives should be reasonably attainable
+        * continually scan the environment for external factors that may impact the success of the organization’s strategies and make necessary adjustments
+      * _Operational/Annual Workplan_
+        * annually create a written operational plan
+        * Operational plans should support the nonprofit’s strategic goals and objectives
+        * should clearly define specific program, financial, personnel and evaluation activities; establish timelines; assign specific responsibility for implementation; and be tied to an approved budget.
+        * should be used as a management tool for tracking and evaluating activities and outcomes.
+      * _Contingency Plans_
+        * develop contingency plans for appropriate areas of the organization
+        * include instructions for overcoming potential challenges
+        * have a plan for how to communicate with key stakeholders in the event of unforeseen events.
+        * purchase insurance policies appropriate to entities of their size and activities to cover property and liability risks,
+  * <b>Civic Engagement and Public Policy Influencing public decision-making</b>
+    * _Promoting Participation_
+      * Nonprofits should help their clients, members, volunteers and donors learn how relevant policies affect them
+      * promote nonpartisan efforts to encourage voting
+      * consider promoting awareness of elections and issues
+    * _Advocacy and Public Policy_
+      * consider taking organizational positions on policy issues that impact the mission of the organization
+      * maintain a sound understanding of the current public policy environment
+      * If engaged in public policy and advocacy activities, nonprofits should adopt a written policy that clarifies the scope of the work
+      * join together in strategic alliances around policy issues
+      * In situations where an organization’s mission is directly affected by a public policy, nonprofits should lead advocacy efforts
+    * _Lobbying_
+      * specifically authorized by federal law with mandatory reporting on IRS Form 990.
+      * Nonprofits that engage in lobbying activities are subject to state and federal lobbyist registration and reporting requirements
+      * Nonprofits that are engaged in lobbying activities must be aware of their funding sources’ limitation
+    * _Political Campaign Activity_
+      * 501(c)(3) organizations must not take positions or spend funds to support or oppose a candidate for political office
+      * Nonprofit representatives should distinguish between their personal positions or endorsements and the nonpartisan stance of their organization
+  * <b>Strategic Alliances</b>
+    * _Strategy for Creating Connections_
+      * be aware of ongoing developments and changes in their field
+      * seek appropriate strategic partnerships and alliances to achieve organizational goals
+      * Decisions regarding strategic alliances should be consistent with the strategic goals and advance the mission
+    * _Assessment/Decision-making_
+      * determine what resources would be required in a potential alliance
+      * Alliance agreements should establish clear roles and responsibilities
+      * assess on an ongoing basis whether resources are being used wisely
+      * A charitable organization that participates in a business venture with a taxable entity must ensure that its assets do not improperly benefit the taxable entity
+    * _Coordination_
+      * Nonprofits should coordinate their activities with other organizations providing similar or complementary services
+      * work to establish communication channels, mutual understanding and beneficial alliances
+      * assist other nonprofits in the community through alliances and sharing of resources, connections and expertise
+  * <b>Human Resources</b>
+    *  _Employee Policies_
+      * comply with all federal, state and local employment laws
+      * comply with employment mandates
+      * adopt a set of board-approved policies and procedures for managing employees.
+      * provide a safe and healthy work environment
+      * establish a clear conflict of interest policy for employees
+      * adopt procedures that allow employees the opportunity to rectify their grievances.
+      * adopt a whistleblower policy to protect personnel when they report violations of organizational policy or applicable laws.
+    * _Recruitment and Retention_
+      * employ skilled individuals who are suitable for the positions they occupy
+      * conduct background checks on employees
+      * Background checks should be conducted in a uniform and consistent way
+      * provide personnel with clear, current job descriptions, a comprehensive orientation, and the resources they need
+      * define their compensation philosophy, balancing internal equity with market-based and livable compensation
+      * provide employees with adequate benefits
+      * create a culture of transparency and open communication
+      * develop a plan for how vacancies in senior leadership positions will be filled
+      * conduct exit interviews when employees depart
+      * When employees are terminated, nonprofits should provide adequate notice and information about benefit continuation, unemployment compensation, references and job placement assistance
+    * _Diversity and Inclusion_
+      * strive toward creating a workplace that welcomes and supports employees
+      * establish and abide by a broad and encompassing equal opportunity employment policy
+    * _Training and Development_
+      * promote staff education and development and provide opportunities for growth and advancement
+      * budget for the professional development of staff
+      * personnel should receive ongoing performance-related feedback and a formal performance evaluation at least annually
+  * <b>Volunteer Management</b>
+    * _Volunteer Engagement_
+      * assess the capacity of their organization to engage, supervise and support volunteers
+      * develop a volunteer plan that states how volunteers advance the organization’s mission.
+      * allocate resources (including staff) to recruit, engage, supervise, recognize and retain volunteers.
+      * put risk management procedures in place to assess, manage or lessen potential risks to volunteers
+      * Board members should make an intentional distinction between their governance role as volunteer board members and any activities they conduct as program-based volunteers
+      * abide by the distinctions between the legally allowed activities of volunteers and employees:
+        * Employees of an organization may volunteer for the organization as long as the volunteer duties are outside of regular assignments
+        * Financial and in-kind benefits to volunteers should be limited to reimbursement for business-related expense
+    * _Recruitment and Screening_
+      * organizations should develop a clear description of the scope of the work, necessary skills, expected time commitment and the impact and benefits of the volunteer’s service.
+      * seek to match volunteer opportunities to the potential volunteer’s needs and interests.
+      * conduct background checks if the volunteer will be working directly with vulnerable people.
+      * incorporate a broad range of internal and external strategies to reach out to diverse sources of volunteers.
+    * _Engagement and Supervision_
+      * Volunteers should be welcomed and treated as valued and integral members of the organization’s human resources
+      * Volunteers should be provided with an orientation
+      * structure their volunteer program so that each volunteer has a direct connection with an identified supervisor
+      * have clearly articulated and documented accountability and discipline procedures
+      * provide formal and informal opportunities to recognize the impact and value of volunteers
+      * receive ongoing performance-related feedback and a formal performance evaluation
+      * volunteer program should be evaluated periodically to assess the impact
+  * <b>Leadership and Organizational Culture</b>
+    * _Decision-making_
+      * make clear the decision making structures and processes of the organization
+      * devote time and attention to analyze the changing environment
+      * actively seek to understand underlying causes of mission-related issues
+      * prioritize organizational goals and negotiate external relationships to buffer against excessive control
+      * recognize and navigate the organization’s response to the sometimes competing interests
+      * discern a sustainable business model for the organization
+    * _Communications_
+      * focusing the organization’s attention on timely mission-relevant issues and opportunities
+      * Leaders should advocate for their organization and its mission
+      * actively communicate how the organization’s activities produce the intended change in the community
+      * ensure that sufficient time and energy is invested in the organization’s communication capacity.
+    * _Culture_
+      * continually develop the skills, knowledge and abilities of others at all levels of the organization
+      * create and sustain an organizational culture that best advances the nonprofit’s mission and goals.
+      * push the organization to make difficult and timely decisions,
+      * foster a culture of information sharing and interaction between the board and others in the organization
+      * identify and implement opportunities that enhance a positive working environment.
+      * leaders should demonstrate the behaviors they expect of their colleagues.
+      * encourage their organization’s staff and board to seek out, recognize and leverage the shared and different values of diverse cultures.
+      * pay attention to and attend to their need for professional and personal renewal
+      * allow for and encourage questions and reflections on the organization’s strategies, effectiveness and ability to change
 
-### Minnesota Council on Nonprofits’ - Principles and Practices for Nonprofit Excellence
 ### Minnesota Council of Foundations’ - Principles for Grantmakers & Practice Options for Philanthropic Organizations (2009)
+
+* group of 15 members and staff took on the work of revisiting each idea and concept from the founding 1996 efforts. The result is a splendid new body of Philanthropy & Public Trust work: new Principles for Grantmakers that are more aspirational and less transactional than the earlier version
+* Principles:
+  * _Ethics and Law Principle_
+    * sustain public trust by adhering to the highest ethical principles and practices and abiding by all state and federal laws
+  * _Effective Governance Principle_
+    * achieve effective governance by ensuring performance in the areas of stewardship of assets, donor intent, fiduciary responsibility and sound decision-making
+  * _Mission and Goals Principle_
+    * be purposeful in our philanthropy by having a clearly stated mission and explicit goal
+  * _Engaged Learning Principle_
+    * foster continuous learning and reflection by engaging board members, staff, grantees and donors in thoughtful dialogue and education
+  * _Respectful Relationships Principle_
+    * build constructive relationships with applicants, grantees and donors by ensuring mutual respect, candor, confidentiality and understanding.
+  * _Transparency Principle_
+    * achieve transparency in our relationships with the public, applicants, grantees and donors by being clear, consistent and timely in our communications with them.
+  * _Diversity Principle_
+    * reflect and engage the diversity of the communities we serve
+  * _Self-Assessment & Commitment Principle_
+    * uphold the highest standards by regularly assessing ourselves against these principles
+* The Practice Options in this document are ever-changing. They represent good practices at a point in time and recognize that as an organization evolves so, too, should the choice of Practice Options it employs in its work
+* <b>Governance</b>
+  * _Board Compostion_
+  * _Board Fiduciary Duties of Care, Loyalty and Obedience_
+    * _Duty of Care_
+      * Mission and Strategy
+      * Board Management
+      * Board Learning
+      * Donor Intent
+      * Staffing
+      * Evaluation
+    * _Duty of Loyalty_
+      * Conflicts of interest
+    * _Duty of Obedience_
+      * Self-dealing
+      * Board Compensation
+      * Public accountability
+      * Whistleblower Policy
+  * <b>Accountability and Communications</b>
+    * Registration
+    * 990 and Other Filings
+    * Transparency
+  * <b>Program</b>
+    * _Grantmaking_
+      * Grant Guidelines and Process for Application
+      * Due Diligence
+    * _Public Policy Engagement_
+      * Funding Advocacy and Lobbying
+      * Participating in Public Policy
+    * _Other Programs_
+  * <b>Finance and Administration</b>
+    * Investments
+    * Investments for Foundations with Endowments
+    * Taxes
+    * Expenditures
+    * Financial Management
+    * Records Retention & Management
+    * Audits
+  * <b>Human Resources</b>
+    * _For grantmanking organizations that hire staff_
+      * Staff Hiring, Management and Compensation
+      * Staff Learning and Development
+      * Whistleblower Policy
+  * <b>Fund Development</b>
+    * _Community and public foundations only_
+      * Resource Development
+      * Stewardship and Accountability
+      * Donor Relations
+* Find more tools at [mcf.org/publictrust](http://www.mcf.org/publictrust)
+* <b>Working Toward Diversity</b>
+  * To be effective, all grantmakers must gain new competencies and experiences in diversity to guide them in doing the work of philanthropy.
+  * This special chapter offers foundations and corporate giving programs some fresh ideas, good practices and current examples of diversity work in the field
+  * In devising a framework for applying the diversity principle, the Minnesota Council on Foundations has identified four distinct grantmaker roles:
+    * _funder_
+      * wealth of opportunities to foster diversity
+      * commitment to inclusion policies may trigger a whole new way of thinking about grantmaking and how best to reach a diverse constituency
+    * _employer_
+      * shapes its staff and can also determine the composition of its board
+      * provides important opportunities to bring diversity, in all its meanings, inside the institution.
+    * _civic participant_
+      * contribute to the public good through involvement in communities, not just through funding.
+      * earn about the needs and issues of diverse constituencies
+      * act as facilitators and initiators of community action
+      * offer technical assistance and draw upon resources that would be unavailable to many small nonprofits
+      * become equal partners in their communities, gaining valuable insight and knowledge through firsthand experience.
+    * _economic entity_
+      * direct its financial activities in ways that amplify a commitment to inclusion and complement its grantmaking mission
+      * Socially responsible investment policies are one way
+      * Supporting businesses owned by marginalized populations is another strategy
