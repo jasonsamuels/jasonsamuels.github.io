@@ -168,7 +168,11 @@ The last portion of this class was dedicated to discussing an assigned case stud
   * It’s easier to do project based stakeholder analysis than universal
   * Decision about how to define stakeholders is therefore consequential, and it’s more of an art than a science
 
-### Stakeholder Analysis Workshop notes
+## Stakeholder Analysis Workshop notes
+
+The Stakeholder Analysis Workshop was a neat experience. Thirteen classmates gathered at 8am on a frigid morning (on St. Paul campus due to it being Super Bowl weekend) for a "day of serious play" .. an academic exercise around a real world case. Prior to the class each student interviewed one stakeholder in the case. We came prepared to discuss our stakeholder's interests, and were guided through a series of activities to analyze the needs of stakeholders and recommendations in the case.
+
+### Notes from the workshop lecture
 
 * Governance:
   * Mission
