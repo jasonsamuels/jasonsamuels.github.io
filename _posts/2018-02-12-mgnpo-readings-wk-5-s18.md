@@ -7,6 +7,7 @@ published: true
 Class theme was _The Ethics and Accountability Challenge, Self-Regulation and the Nonprofit Sector_
 
 > ## Table of contents
+> * [Chapter 2, Managing Nonprofit Organizations, Tschirhart and Bielefeld (2012)](#managing-nonprofit-organizations-tschirhart-and-bielefeld-2012)
 > *
 > *
 > *
@@ -14,6 +15,112 @@ Class theme was _The Ethics and Accountability Challenge, Self-Regulation and th
 > *
 > *
 > *
+
+### Chapter 2, Managing Nonprofit Organizations, Tschirhart and Bielefeld (2012)
+* what makes a good nonprofit?
+* stakeholders can pull a nonprofit in different directions and lead to compromises that keep it from excelling
+* which stakeholders’ interests should have the greatest priority and how to handle conflicts of interest
+* nonprofits have a heightened responsibility to operate in an effective and ethical manner
+* Scandals can raise concerns about the nonprofit sector as a whole
+* <b>Multiple Dimensions for Evaluating Effectiveness</b>
+  * **In the simplest terms, effective organizations are the ones that accomplish their mission**
+  * difficult to judge the effectiveness of some nonprofits in the short term
+  * Assessment of nonprofit organizational effectiveness requires multifaceted approaches that acknowledge the challenges of achieving complex, difficult, long-term missions
+  * also need to recognize that effectiveness assessments may come from multiple stakeholders with different perspectives:
+    * The first, the _goal accomplishment approach_, examines organizational output
+    * resource _acquisition approach_ (sometimes called the system resource approach) focuses on inputs needed
+    * _internal processes approach_, assesses the health and efficiency of internal dynamics
+    * the _stakeholder approach_, looks at the satisfaction of stakeholders inside and outside the organization
+    * how well the organization adapts over time (could be called _adaptation approach_)
+* <b>Goal Accomplishment</b>
+  * Unlike the business sector, which can comfortably use profit as a metric for success, the nonprofit sector should be careful to treat the amount of revenue generated or donations received as an input, not a goal.
+  * Achievement of goals may not indicate achievement of mission
+  * A nonprofit should set goals that are highly likely to align with its mission.
+  * We recommend that goals be:
+    * Measurable
+    * Time bounded
+    * Accepted
+    * Challenging but feasible
+    * Prioritized
+* <b>Resource Acquisition</b>
+  * a nonprofit can evaluate effectiveness in terms of the extent to which it has acquired the inputs needed to accomplish its mission
+  * examples of types of inputs:
+    * Human resources
+    * Financial resources
+    * Capital resources
+    * Knowledge resources
+    * Program resources
+    * Community-based resources
+  * this type of evaluation is best used when the level of a resource brought into an organization can be linked to its actual results
+  * It is often easy and expected for a nonprofit to count and report inputs
+  * Tracking inputs can reveal trends that leaders may want to investigate further
+  * inputs provide a useful but limited perspective that can be complemented with other approaches
+* <b>Internal Processes</b>
+  * nonprofits may be judged on the efficiency, harmony, and ethics of their internal operations
+  * Evaluation using internal process criteria may be especially useful when a nonprofit relies heavily on teamwork or has complicated technology.
+  * A close look at the internal operations of a nonprofit can uncover areas for improvement as well as opportunities for praise.
+  * In addition to revealing ethical concerns, internal reviews can reveal opportunities for improving efficiency
+  * it is important to see efficiency not as an end in itself but rather as something that should be pursued to carefully steward resources
+  * Nonprofit leaders who wish to demonstrate their nonprofit’s effectiveness on this dimension should focus on highlighting good internal management practices.
+* <b>Stakeholder Satisfaction</b>
+  * stakeholders have varying degrees of legitimate claims and power to influence the organization’s behavior.
+  * relative level of satisfaction of these stakeholders is an additional gauge of an organization’s effectiveness
+  * Some nonprofits’ primary function is to provide an outlet for participants’ ideas and beliefs
+  * For these nonprofits, having high internal efficiency may undermine this part of their purpose.
+  * For these types of nonprofits, stakeholders’ satisfaction with their involvement in the nonprofit can be a highly relevant effectiveness criterion.
+  * Using a stakeholder satisfaction approach for evaluating effectiveness becomes more complex as the number and diversity of stakeholders that need to be considered grows
+  * Stakeholder mapping is a technique nonprofit leaders can use to identify and strategize about stakeholders
+* <b>Growth, Learning, and Adaptation</b>
+  * evaluation can also focus on a nonprofit’s ability to respond to internal and external changes
+  * Survival is a crude measure of effectiveness
+  * The ability to adapt in order to capture new opportunities and reduce vulnerabilities and inefficiencies is a better indicator, but is more challenging to measure
+  * With this approach, criteria include readiness for change and an ability to learn, making continuous improvements in quality and efficiency, and taking advantage of innovations
+* <b>Taking a Balanced Approach</b>
+  * One simple model is a triangle that identifies three components of an organization: mission and mandates, internal capacity, and external support
+  * There are many tools to help nonprofits keep the triangle in balance
+* <b>Ethics in Nonprofits</b>
+  * Unethical behavior is not always premeditated or understood to be wrong by everyone involved
+  * Ethical minefields within the nonprofit sector have led to calls for greater accountability, government regulation, protection of whistle-blowers, and codes of conduct
+  * four levels of ethics:
+    * _Personal ethics_
+      * to an individual’s demographic and personality characteristics. Ethical behavior tends to be linked to an individual's demographic and personality characteristics
+      * _Locus of control_ refers to how much control and responsibility individuals believe they have over what happens to them
+      * leaders should not assume that because someone is involved with a nonprofit he or she is trustworthy
+      * moral codes of the organization should be made clear to all to whom they apply, and organizational systems should be put in place
+      * The work context can affect individual ethical conduct, so it is important for nonprofit leaders to explain and reinforce what is and is not acceptable behavior.
+      * nonprofit leaders should evaluate the work setting to see if unethical behavior is being encouraged by overly high demands on workers that lead them to take inappropriate shortcuts, poor role models for ethical decision making, or compensation systems that make them feel it is OK to take resources from the organization because the pay is too low or because others do so without being sanctioned
+      *  likelihood that employees will behave unethically increases when they perceive that the reward system is unfair, they are under excessive pressure to meet performance objectives, they are part of a group that is benefiting from acting unethically, or they think their leaders do not have a commitment to ethical standards
+      * Reminding workers and board members of professional, organizational, and societal standards and codes can help keep unethical behaviors in check.
+      * The goals of training should be to:
+        * Build moral awareness
+        * Frame moral decision making
+        * Clarify moral intent
+        * Encourage moral action
+      * three general questions
+        * Is it legal?
+        * Is it balanced and fair to all concerned?
+        * How will it make me feel about myself?
+      * **If an employee can give positive answers to these questions, the action has passed a very basic ethics test.**
+    * _Professional ethics_
+      * In the case of certified professionals, breaking professional codes may cause them to lose their credentials
+      * As more certified professionals trained in ethical conduct for their professions enter the nonprofit sector, we may see professional norms and standards spilling over to other job functions
+      * By integrating professional standards for ethical conduct into their organization’s behavioral codes, they can avoid conflicts
+    * _Organizational ethics_
+      * One of the most influential methods may be to use values-based leadership
+      * five core attributes of ethical nonprofit managers:
+        * integrity
+        * openness
+        * accountability
+        * service
+        * charity
+      * If leaders reflect these values, and encourage others in their organizations to do the same, they can build and maintain trust
+      * A variety of organizational structures and systems can be used to encourage ethical behavior and signal accountability
+    * _Societal ethics_
+      * Societal pressures encourage nonprofits, and those working within them, to go beyond the letter of the law in the ethical level of their governance and operations.
+      * The legal environment for nonprofits also serves as a check on unethical behavior
+      * There is continued debate about the need for more regulation to encourage nonprofit accountability.
+      * enthusiasm and capacity for self-regulation by members of the nonprofit sector is mixed.
+      * Nonprofit leaders operating in diverse cultural contexts are likely to find a variety of interpretations of the ethics of situations and should be sensitive to cross-cultural differences.
 
 ### Ebrahim - The Many Faces of Nonprofit Accountability (2010)
 * what does it mean to be accountable?
