@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Class notes - weeks one through four nine, Spring 2018
+title: Class notes - weeks one through four, Spring 2018
 published: true
 ---
 
 In between weeks four and five, here I sit writing a catch up blog post on class notes and reflections. It still feels like I'm slowly readjusting to school after the winter break, but that's bound to change fast as the first papers of the semester are coming due.
 
 >Table of contents
->
->
->
->
->
->
+> * [Management and Governance of Nonprofit Organizations](#management-and-governance-of-nonprofit-organizations)
+>   * [MGNO, Week 1](#mgno-week-1)
+>   * [MGNO, Week 2](#mgno-week-2)
+>   * [MGNO, Week 3](#mgno-week-3)
+>   * [MGNO, Week 4](#mgno-week-4)
+> * [Stakeholder Analysis Workshop notes](#stakeholder-analysis-workshop-notes)
 
 My course load for the first half of this semester is lighter than last semester was. I need 5.5 credits to finish my Certificate of Nonprofit Management. So I'm registered for a 3 credit class on _Management and Governance of Nonprofit Organizations_ which runs the full semester (and is the last required class for the certificate program), a 2 credit class on _Information Technology Management_ (a Carlson School of Business class that I petitioned to get in to) which runs for just the second half of the semester, and a half-credit _Skills Workshop on Stakeholder Analysis_ which was an all-day one-day affair that took place last Saturday (a week ago today).
 

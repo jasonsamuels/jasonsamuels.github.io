@@ -7,14 +7,16 @@ published: true
 Class theme was _The Ethics and Accountability Challenge, Self-Regulation and the Nonprofit Sector_
 
 > ## Table of contents
-> * [Chapter 2, Managing Nonprofit Organizations, Tschirhart and Bielefeld (2012)](#managing-nonprofit-organizations-tschirhart-and-bielefeld-2012)
-> *
-> *
-> *
-> *
-> *
-> *
-> *
+> * [Chapter 2, Managing Nonprofit Organizations, Tschirhart and Bielefeld (2012)](#chapter-2-managing-nonprofit-organizations-tschirhart-and-bielefeld-2012)
+> * [Ebrahim - The Many Faces of Nonprofit Accountability (2010)](#ebrahim---the-many-faces-of-nonprofit-accountability-2010)
+> * [Woods Nonprofit Accountability and Ethics: Rotting from the Head Down (2012)](#woods-nonprofit-accountability-and-ethics-rotting-from-the-head-down-2012)
+> * [Rhode & Packel Ethics and Nonprofits (2009)](#rhode--packel-ethics-and-nonprofits-2009)
+> * [Better Business Bureau - Wise Giving Alliance Standards for Charity Accountability](#better-business-bureau---wise-giving-alliance-standards-for-charity-accountability)
+> * [Independent Sector- Checklist for Accountability (2018)](#independent-sector--checklist-for-accountability-2018)
+> * [Independent Sector - Principles for Good Governance and Ethical Practices (2015)](#independent-sector---principles-for-good-governance-and-ethical-practices-2015)
+> * [Charities Review Council - Accountability Standards (2014)](#charities-review-council---accountability-standards-2014)
+> * [Minnesota Council on Nonprofits’ - Principles and Practices for Nonprofit Excellence (2014)](#minnesota-council-on-nonprofits---principles-and-practices-for-nonprofit-excellence-2014)
+> * [Minnesota Council of Foundations’ - Principles for Grantmakers & Practice Options for Philanthropic Organizations (2009)](#minnesota-council-of-foundations---principles-for-grantmakers--practice-options-for-philanthropic-organizations-2009)
 
 ### Chapter 2, Managing Nonprofit Organizations, Tschirhart and Bielefeld (2012)
 * what makes a good nonprofit?
