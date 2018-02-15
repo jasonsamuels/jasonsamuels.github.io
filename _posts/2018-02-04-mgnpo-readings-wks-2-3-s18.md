@@ -17,6 +17,7 @@ Class themes were _The Distinctive Challenge_ and _Historical Perspectives and T
 > * [Minnesota Council of Nonprofits Nonprofit Economy Report (2016)](#minnesota-council-of-nonprofits-nonprofit-economy-report-2016)
 > * [Salamon et al. What do Nonprofits Stand For? (2012)](#salamon-et-al-what-do-nonprofits-stand-for-2012)
 > * [Willets What is a Non-Governmental Organization?](#willets-what-is-a-non-governmental-organization)
+>
 > ### [Week 3](#week-3-1)
 > * [The Global Journal - NGOs: A Long and Turbulent History (2013)](#the-global-journal---ngos-a-long-and-turbulent-history-2013)
 > * [Turner Why Has the Number of International Non-Governmental Organizations Exploded since 1960? (2010)](#turner-why-has-the-number-of-international-non-governmental-organizations-exploded-since-1960-2010)
@@ -175,10 +176,10 @@ up into separate tasks and functions. This is the organization’s division of l
 * _National culture_ will also influence organizational structure. Organizations are located in national cultural contexts, and organizational cultures will be a reflection of the larger culture
 * _Organizational culture_ is the set of key values, beliefs, understandings, and norms shared by organizational participant
 * The consequences of inattention to structural needs or inappropriate structural design can, however, be quite serious. A number of symptoms of structural deficiency have been identified:
- * Decision making is delayed or lacking in quality
- * The organization does not respond innovatively to a changing environment
- * Employee performance declines and goals are not being met
- * Too much conflict is evident
+  * Decision making is delayed or lacking in quality
+  * The organization does not respond innovatively to a changing environment
+  * Employee performance declines and goals are not being met
+  * Too much conflict is evident
 * Nonprofit organizational structure is both a consequence and a cause. It is a consequence of the nonprofit’s external context as well as its work processes and strategy. In turn structure influences many of the internal features of the nonprofit
 * important to remember that strategy formulation process, as well as the others, are intimately interrelated with structure
 

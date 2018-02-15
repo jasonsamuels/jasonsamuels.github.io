@@ -247,7 +247,7 @@ Class theme was _The Ethics and Accountability Challenge, Self-Regulation and th
 * The complex nature of nonprofit work suggests, however, that attention to more strategic processes of accountability are necessary for lasting social and political change
 * A strategy-driven accountability requires building internal capacity in nonprofits for adaptive learning
 * In the end, accountability is both about being held to account by external actors and standards and about taking internal responsibility for actions
-* nonprofit leaders facemultiple, and sometimes competing, accountability demands from numerous actors for varying purposes, requiring various levels of organizational response.
+* **nonprofit leaders face multiple, and sometimes competing, accountability demands from numerous actors for varying purposes, requiring various levels of organizational response.**
 * current emphasis on the upward and compliance dimensions of accountability is problematic, skews organizational attention toward the interests of those who control critical resources
 * **predominant emphasis on compliance-driven accountability tends to reward nonprofits for short-term responses with quick and tangible impacts, while neglecting longer-term strategic responses or riskier innovations** that can address more systemic issues
 * inescapable that nonprofits will continue to face multiple and competing accountability demands
@@ -369,7 +369,7 @@ Class theme was _The Ethics and Accountability Challenge, Self-Regulation and th
 * Our global economy is paying an enormous price for moral myopia, and we cannot afford its replication in the nonprofit sphere.
 
 ### Better Business Bureau - Wise Giving Alliance Standards for Charity Accountability
-* BBB Wise Giving Alliance Standards for Charity Accountability were developed to assist donors in making sound giving decisions and to foster public confidence
+* [BBB Wise Giving Alliance Standards for Charity Accountability](https://www.give.org/for-charities/How-We-Accredit-Charities/) were developed to assist donors in making sound giving decisions and to foster public confidence
 * standards seek to encourage fair and honest solicitation practices, to promote ethical conduct by charitable organizations and to advance support of philanthropy
 * Organizations that comply with these accountability standards have provided documentation that they meet basic standards:
   * In how they govern their organization
@@ -424,6 +424,7 @@ Class theme was _The Ethics and Accountability Challenge, Self-Regulation and th
   * Respond promptly to and act on complaints brought to its attention
 
 ### Independent Sector- Checklist for Accountability (2018)
+[Checklist for Accountability](https://independentsector.org/resource/checklist-for-accountability/)
 * The steps listed below will help every charitable organization reassure its stakeholders of its commitment to upholding the public trust
   * Develop a Culture of Accountability and Transparency
   * Adopt Code of Ethics and Statement of Values
@@ -436,6 +437,7 @@ Class theme was _The Ethics and Accountability Challenge, Self-Regulation and th
   * Remain Current with the Law
 
 ### Independent Sector - Principles for Good Governance and Ethical Practices (2015)
+[Principles for Good Governance and Ethical Practice](https://independentsector.org/programs/principles-for-good-governance-and-ethical-practice/)
 * Charitable organizations have long embraced the need for standards of ethical practice that preserve and strengthen the public’s confidence
 * The pages that follow set forth a comprehensive set of principles
 * purpose is to reinforce a common understanding of transparency, accountability, and good governance for the sector as a whole
@@ -483,7 +485,7 @@ Class theme was _The Ethics and Accountability Challenge, Self-Regulation and th
   * respect the privacy of individual donors
 
 ### Charities Review Council - Accountability Standards (2014)
-* The [Accountability Standards®](http://smartgivers.org/standards) serve as a framework for building trusting, productive relationships between nonprofits, donors, and the general public
+* The [Accountability Standards®](https://smartgivers.org/nonprofits/the-accountability-standards/) serve as a framework for building trusting, productive relationships between nonprofits, donors, and the general public
 * <b>Public Disclosure</b>
   * _Annual Report & Communication_
     * The nonprofit annually keeps the following information available to the public via its website and/or a written report:
@@ -553,6 +555,7 @@ Class theme was _The Ethics and Accountability Challenge, Self-Regulation and th
     * If the nonprofit is engaged in cause-related marketing or its name is used in connection with an event or the sale or marketing of goods, they provide accurate information about the percentage of gross revenue that the nonprofit receives.
 
 ### Minnesota Council on Nonprofits’ - Principles and Practices for Nonprofit Excellence (2014)
+[Principles and Practices for Nonprofit Excellence](http://www.minnesotanonprofits.org/nonprofit-resources/principles-and-practices/principles-and-practices-for-nonprofit-excellence-2014/principles-and-practices-for-nonprofit-excellence)
 * In 1994 MCN became the first state association of nonprofits to develop a set of accountability principles and management practices
 * revised edition completely updates those original standards while remaining true to MCN’s longstanding goal of open access
 * Principles and Practices for Nonprofit Excellence are based on the fundamental values of quality, responsibility and accountability
@@ -819,7 +822,7 @@ Class theme was _The Ethics and Accountability Challenge, Self-Regulation and th
       * allow for and encourage questions and reflections on the organization’s strategies, effectiveness and ability to change
 
 ### Minnesota Council of Foundations’ - Principles for Grantmakers & Practice Options for Philanthropic Organizations (2009)
-
+[Minnesota Council of Foundations’ Principles & Practices](https://mcf.org/membership/principles-practices)
 * group of 15 members and staff took on the work of revisiting each idea and concept from the founding 1996 efforts. The result is a splendid new body of Philanthropy & Public Trust work: new Principles for Grantmakers that are more aspirational and less transactional than the earlier version
 * Principles:
   * _Ethics and Law Principle_
