@@ -57,3 +57,15 @@ A two page reflective essay on the role of nonprofits in society is due this wee
 * Nonprofits are an open system - affected by all manner of societal influences, and constantly changing based on current trends, policy changes, public sentiment, etc.
 * Nonprofit/NGO sector is the most rapidly growing sector in the world
 * predominant emphasis on compliance-driven accountability tends to reward nonprofits for short-term responses
+
+## External resources
+
+[MCN Releases FAQ of 2018 Federal Tax Law Changes Affecting Nonprofits](http://www.minnesotanonprofits.org/news/articles/2018/02/08/mcn-releases-faq-of-2018-federal-tax-law-changes-affecting-nonprofits)
+[Conservative Ideologues Are a Danger to Nonprofits of All Kinds](https://www.philanthropy.com/article/Conservative-Ideologues-Are-a/152899)
+[Nonprofits Hammered In Federal Budget Proposal](http://www.thenonprofittimes.com/news-articles/nonprofits-hammered-federal-budget-proposal/)
+[Trump Effect: Six Ways Philanthropy Has Changed in the Past Year](https://www.insidephilanthropy.com/home/2018/1/23/trump-effect-six-ways-philanthropy-has-changed-in-the-past-year)
+[The 22 agencies and programs Trump's budget would eliminate](http://thehill.com/homenews/administration/373441-the-federal-programs-trump-proposes-cutting-in-2019-budget)
+[17 WTF Items From Donald Trump's Budget](https://www.rollingstone.com/politics/news/trump-budget-17-wtf-items-w516681)
+[Oxfam sex abuse scandal takes its toll as more than 1,200 people cancel monthly donations](http://www.telegraph.co.uk/news/2018/02/13/oxfam-loses-donations-sex-abuse-scandal-takes-toll/)
+[Oxfam: fresh claims that staff used prostitutes in Chad](https://www.theguardian.com/world/2018/feb/10/oxfam-faces-allegations-staff-paid-prostitutes-in-chad)
+[Here’s What You Should Know about Trump’s FY2019 Budget](https://independentsector.org/news-post/what-should-know-trump-fy2019-budget/)
