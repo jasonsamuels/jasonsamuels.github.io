@@ -4,7 +4,7 @@ title: Class notes - week five, Spring 2018
 published: true
 ---
 
-I was a couple minutes late walking into class next week as the professor talked about our readings on ethics. After a brief overview of the topic, he turned to addressing the paper due that night. what he really wants is for us to tell him what we’re learning. Don’t use space in the paper to regurgitate and summarize the readings. Don't write what you think someone wants to see to give you a good grade, write an analysis instead.
+I was a couple minutes late walking into class as the professor talked about our readings on ethics. After a brief overview of the topic, he turned to addressing the paper due that night. what he really wants is for us to tell him what we’re learning. Don’t use space in the paper to regurgitate and summarize the readings. Don't write what you think someone wants to see to give you a good grade, write an analysis instead.
 
 An email had gone out from our teaching assistant that morning, based on draft essays read they wanted to encourage everyone to do less summary and more analysis. When I read that at my desk at work mid-morning I thought about all of the reading summaries incorporated in my essay and laughed, then took another sip of coffee. I had stayed up late the night before finishing the paper and there's no time in my work day for another rewrite.
 
