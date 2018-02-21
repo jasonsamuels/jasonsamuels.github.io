@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading summaries - Management and Governance of Nonprofit Organizations - week four, Spring 2018
+title: Reading summaries - Management and Governance of Nonprofit Organizations - week five, Spring 2018
 published: true
 ---
 

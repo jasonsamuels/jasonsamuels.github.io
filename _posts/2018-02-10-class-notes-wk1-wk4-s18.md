@@ -22,9 +22,31 @@ So far I'm really enjoying the classes I'm taking. The professor for _Management
 
 ### MGNO, Week 1
 
-The first week back at class felt a little bit rusty. Not only was I trying to shake off the winter inertia, but the class Moodle site wasn't yet up and no syllabus had been sent in advance. So unlike each of the other classes I've taken so far (this time around), there was no reading due prior to day one. Everyone showed up to a blank slate, and the first class ended up being dedicated to a full round of introductions followed by a run through the syllabus. There are three dozen students in the class, a dozen of which I've taken other classes with. There's a contingent of students taking an international development concentration, including numerous students from overseas who bring rich and diverse perspectives to the group. Towards the end of the first week's class the professor segued into a short lecture, which I didn't adjust to quickly enough to start taking notes.
+The first week back at class felt a little bit rusty. Not only was I trying to shake off the winter inertia, but the class Moodle site wasn't yet up and no syllabus had been sent in advance. So unlike each of the other classes I've taken so far (this time around), there was no reading due prior to day one. Everyone showed up to a blank slate, and the first class ended up being dedicated to a full round of introductions followed by a run through the syllabus. There are three dozen students in the class, a dozen of which I've taken other classes with. There's a contingent of students taking an international development concentration, including numerous students from overseas who bring rich and diverse perspectives to the group. Towards the end of the first week's class the professor segued into a short lecture, which I didn't adjust to quickly enough to start taking notes. (Edit: a classmate who did shared theirs)
 
 There was also some encouragement during this first class for students to consider keeping a "management journal" during the semester to record and reflect on the course experience. I smiled a little at this, thinking that this blog fits the model and I'm looking forward to continuing it.
+
+#### Lecture notes from week 1
+
+* What do we think we know about governance?
+* Different orgs have different boards
+  * Startup board, for example - no staff, a “working board”
+    * Term limits are critical because that transition from board to staff is challenging
+  * Membership organizations - board made up of members
+  * Foundation boards - often made up of family members
+  * Board of trustees
+* Moral owner of a non-profit is the board, technically
+* Functions of a board
+  * Start up: need capital, friends, space, etc.
+  * Need people to have different skills and connections
+  * **Where strategic plan and governance come together**
+  * A good plan - board members that can forward that plan
+* Boards are not experts - recruited based on expertise if possible, but make sure they have oversight?
+  * Have staff doing that if you are over 10 years old - not directing what management does
+  * Worst thing to do - bring them on and don’t use their expertise
+  * Board diversity - don’t do tokenism
+* State variances in policy for boards, governance, etc.
+* Boards need management - teach them how to evaluate you as the ED talking to board.
 
 ### MGNO, Week 2
 

@@ -71,3 +71,4 @@ A two page reflective essay on the role of nonprofits in society is due this wee
 * [Here’s What You Should Know about Trump’s FY2019 Budget](https://independentsector.org/news-post/what-should-know-trump-fy2019-budget/)
 * [2015 State of the Nonprofit Sector](http://survey.nonprofitfinancefund.org) -- [About the Survey](http://www.nff.org/learn/survey)
 * [Research, Reports, and Data on the Nonprofit Sector](https://www.councilofnonprofits.org/research-reports-and-data-the-nonprofit-sector)
+* [The Nonprofit Workforce: By the Numbers](https://nonprofitquarterly.org/2016/10/24/nonprofit-workforce-numbers/)
