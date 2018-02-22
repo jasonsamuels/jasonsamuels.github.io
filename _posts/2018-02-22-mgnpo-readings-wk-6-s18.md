@@ -7,7 +7,12 @@ published: true
 Class theme was _strategic thinking; strategic planning_
 
 > ## Table of contents
-> *
+> * [Chapter 5, Managing Nonprofit Organizations, Tschirhart and Bielefeld (2012)](#chapter-5-managing-nonprofit-organizations-tschirhart-and-bielefeld-2012)
+> * [Brown - Analyzing operating domains (2015)](#brown---analyzing-operating-domains-2015)
+> * [Clark - Introducing Strategic Thinking into a Non-profit Organization to Develop Alternative Income Streams](#clark---introducing-strategic-thinking-into-a-non-profit-organization-to-develop-alternative-income-streams)
+> * [University of Florida - Strategic Thinking](#university-of-florida---strategic-thinking)
+> * [Shore et al - “When Good is not Good Enough” (2013)](#shore-et-al---when-good-is-not-good-enough-2013)
+> * [Rutgers - Strategic Planning for Nonprofit and Nongovernmental Organizations](#rutgers---strategic-planning-for-nonprofit-and-nongovernmental-organizations)
 
 ### Chapter 5, Managing Nonprofit Organizations, Tschirhart and Bielefeld (2012)
 * key role that strategic planning plays in directing and focusing the activities of nonprofit organizations as they seek to meet their missions and enhance their impact
