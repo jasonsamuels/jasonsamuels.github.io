@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading summaries - Management and Governance of Nonprofit Organizations - week seven, Spring 2018
-published: false
+published: true
 ---
 
 Class theme was _The structure of resource environments_
@@ -165,3 +165,120 @@ Class theme was _The structure of resource environments_
 * all nonprofits should be prepared to be transparent and accountable in their financial management systems
 
 ### Smith - Managing the challenges of government contracts (2010)
+
+* government contracting can have profound effects on nonprofit organization governance, program innovation, and the relationship of agencies to their local communities
+* Prior to the 1960s, nonprofit service agencies in the US were primarily dependent on private revenue from client fees, charitable donations, and endowment income
+* this funding mix changed dramatically in the 1960s with the rise of the federal role in social policy
+* Many existing nonprofit agencies were initially reluctant to accept government contracts due to concern that government funding might undermine mission and autonomy
+* many agencies eventually accepted government contracts
+* some of the early federal grant programs had very loose accountability requirements so nonprofit agencies could accept the funds without onerous compliance requirements
+* federal funding allowed nonprofit agencies to reduce their dependence on private donations and fees
+* federal social service spending soared in the 1960s and 1970s, primarily through contracts with nonprofit human service agencies, almost tripled between 1965 and 1970
+* By 1980, federal funds accounted for 65 percent of total government spending at all levels on social welfare services, compared to 38 percent in 1965
+* Total spending at all levels of government (in constant 1995 dollars) for social welfare services rose from $45.2 billion in 1965 to $104.79 billion in 1980
+* A large percentage of the increase channeled through nonprofit agencies in the form of government contracts
+* This increased federal role changed dramatically when the Reagan administration came to power in 1981 with a commitment to reduce federal spending
+* first year in office, 20 percent reduction in federal spending on social services, consolidation into block grants, decentralization of administrative responsibility
+* Over time federal spending rebounded
+* Starting in the 1980s, Medicaid grew as a revenue source for social services
+* To an increasing degree, Medicaid also funds mental health, child care, home care, hospices, counseling, residential foster care, drug and alcohol treatment, and services for the mentally ill
+* contracting with nonprofits also grew in the aftermath of 1996 welfare reform
+* economic crisis that began in 2008 led to severe cutbacks
+* government has moved away from the traditional contracts that were the hallmark of the initial period of widespread government contracting in the 1960s and 1970s
+* earlier period, most nonprofit agencies did not really compete
+* Most contracts were cost-reimbursement contracts paid agencies for their costs based upon the contract terms and budget. Reimbursement was not linked to outcome
+* Little incentive existed for agencies to compete with other agencies, since contracts were unlikely to be moved
+* current contracting environment is much more competitive, increasingly performance-based
+* due in part to the "reinventing government" and New Public Management movements
+* From the perspective of the nonprofit, performance contracts are especially consequential because they increase uncertainty and offer the threat of termination
+* Nonprofit service agencies also have an incentive to compete
+* Increased competition for funding is also a direct and indirect effect of restructuring of government support
+* many current forms of government support are tied to the client rather than the agency
+* financing arrangement is **dramatically different from the traditional cost-reimbursement contract. Under the latter, agencies actually faced disincentives for service expansion** because additional services added to an agency's cost without certainty that these costs would get reimbursed
+* increased competition has also been fueled by growing competition from for-profit social and health services firms, although competition varies greatly by service category
+  * for-profit firms now compete in child care, home care, community programs for the mentally ill and developmentally disabled
+* nonprofit-government contracting relationships can be characterized as a "regime" for the following reasons:
+  * regimes tend to have accepted means of resolving disputes and addressing particular problems
+  * regime concept helps illuminate regularized patterns of interaction
+  * regimes are usually sustained and dominated by a powerful party
+* implications of contracting regime for nonprofit management are profound. Managers of nonprofit agencies are not free agents, but are linked in an ongoing relationship, constrains their behavior as well as provides certain incentives for managerial action
+* The cash flow problem, as well as the more general challenge of generating adequate revenue, is exacerbated by a common characteristic of the contracting regime: the inability to secure contracts that fully fund the agency's costs
+* Underfunded contracts put nonprofit managers in a delicate position: give up the contract, or continue with the contract, albeit at an underfunded level. Most nonprofits elect to keep the contract
+* one or more of several strategies to compensate for revenue shortfalls:
+  * diversify their government contracts so they can obtain greater economies of scale
+  * seek private donations from individuals or corporations
+  * obtain foundation grants
+  * increase earned income from more commercial revenue sources (for example, from rental income or technical assistance services).
+* **desirability of a diversified revenue base and a sophisticated administrative infrastructure is a major reason that large agencies may have a competitive advantage in the current contracting environment**
+* Another important change is the advent of managed care in many government contracted social and health services
+* Managed care is where a third-party organization "manages" the health care of a population of patients with the goal of improving the efficiency and delivery of care
+* managed care organization then subcontracts with local nonprofit (and for-profit) service agencies to provide the actual community mental health services
+* this contractual arrangement is inherently more uncertain and less reliable than traditional contracting relationships
+* greater uncertainty has exacerbated longstanding problems that may occur in the contract process
+* The uncertainties of the contract renewal process are masked somewhat by the relatively high rate of contract renewal
+* Nonetheless, the renewal process can be highly frustrating. Nonprofit managers may be unclear as to the exact amount of the new contract
+* due to government funding cutbacks, a renewed contract might well be for a lower amount
+* government officials may decide to rewrite the contract upon renewal.
+* change in political priorities might lead state administrators to use contract renewal as an opportunity to restructure the agreement
+* Nonprofit managers, at least theoretically, have the option of refusing to accept the terms of the contract or to abide the long delays often accompanying contract renewal But this can be very problematic
+* success requires sustained attention to agency governance, effective leadership, broad and sustained community support, and ongoing advocacy
+* An effective board of directors serves as a key connecting link between the organization and local community
+* Most board members tend to be unfamiliar with contracting and intricacies of the process, may be unwilling or unable to exercise effective oversight
+* **Significantly, contracting also requires the agency to develop and maintain effective new systems of accountability to document and report on expenditures and clients - requires greater staff specialization and a more formal structure and organization. May need to invest in sophisticated data collection and IT capacity.**
+* Board may be relegated to a position of supporting the ED's initiatives rather than the ED implementing the board's directives and policies
+* As board involvement declines, management mistakes or morale problems may go undetected until a crisis develops
+* Other types of management problems may develop from conflicts over agency mission
+* many boards have successfully addressed the organizational challenges of contracting in ways that strengthen board governance and productive board-staff relations
+  * board can recruit individuals with knowledge of contracting
+  * board can become more engaged in advocacy on behalf of the agency
+  * board can broaden its membership to include more consumer or community representatives
+* Given the changing environment for contracting, the quality of executive leadership in nonprofits is more important than ever
+* **new environment places significant pressure on the executive director to effectively manage both the internal operations and the external network of public and private flinders**
+* The ideal type of executive for a nonprofit service agency cannot be determined without understanding the particular characteristics and needs of the organization
+* An agency needs to strike a balance between a concern for the efficient utilization of resources and the agency mission
+* current contracting environment places a primacy on the ability of nonprofit executives to work collaboratively
+* many nonprofit organizations are valued in part because of their ability to represent specialized or minority constituencies
+* narrowness can become a handicap as an agency develops and obtains contracts
+* **Successful and sustainable nonprofits with government contracts are able to transcend the initial targeted focus of the agency without compromising their mission or programmatic priorities**
+* Enlarging an agency's constituency is not without risks. Clarity about an organization's mission and the role of new constituency groups is absolutely critical
+* Prior to the advent of widespread government contracting, nonprofit agencies tended to operate quite apart from the political process
+* The practice of government contracting fundamentally changed this situation; nonprofits with contracts are now inextricably connected to the political process
+* **the success of nonprofits now hinges, at least in part, on decisions made in the political arena**
+* Over time, even modest efforts can create a positive public image of the agency and garner favorable political support
+* As nonprofit staff and volunteers engage in advocacy, they should also strive to represent the needs of their clients and communities, broadly defined
+* Despite the incentives for political engagement, many nonprofit staff and board members are very reluctant to engage in advocacy
+  * might spur IRS scrutiny
+  * some orgs are small and lack the staff resources to actively participate
+  * most board members possess little experience with government policy.
+  * concern that such efforts may alienate government contract officials and lead to retribution
+* Nonprofit agencies can be effective advocates in spite of these obstacles, but to do so does require persistence and a multipronged strategy
+* Nonprofits also should work collaboratively with other nonprofits, as well as through local and statewide associations
+* Associations have not generally been involved in issues of contracting
+* The capacity of nonprofit associations to be effective advocates for their members may be constrained at times by internal issues
+* persistent nonprofit complaints about the contracting process:
+  * lack of transparency
+  * overly burdensome regulations
+  * a general lack of accountability
+* Response to these problems has led to important changes
+  * many government administrators have adopted policies to make contracting a more equitable process
+  * many governments and nonprofit agencies are experimenting with strategies to "rationalize" the regulation of contract agencies
+* **in practice, performance contracting in the current environment often means much greater attention to outcomes without the reduction in paperwork and staff time**
+* The accreditation movement is a worldwide movement to adopt practices to improve performance without the need to resort to traditional forms of government regulation
+* Increasingly, governments are looking to these accrediting bodies to certify minimum standards of quality in services provided by nonprofit service providers in social and health care,
+* growing interest exists in the United States and abroad in developing quality frameworks specifically tailored for nonprofit organizations.
+* Their long-term impact remains to be determined,
+* since so many nonprofit organizations are now "agents" of government, one could argue that government has an obligation to support training and education and, more generally, capacity building
+* In support of improved nonprofit capacity, government can structure contracts to include support for reasonable administrative costs.
+* Underfunded infrastructure is a common problem
+* contributes to program instability,
+* Government can also play an important role in directly and indirectly helping nonprofit contract agencies with their capital costs
+* To the extent that nonprofits can improve their capital position, they will be in a better position to manage their cash flow effectively
+* nonprofits are often resistant to mergers, so support government (and private funders) is often essential if mergers are actually to occur
+* government agencies need contract manager with skills in negotiation and bargaining and knowledge of management, finance, budgeting, and the organization of nonprofits
+* Government contract managers with these skill sets would also promote effective relationships with nonprofits,
+* Nonprofits for their part should strive to invest in their administrative and programmatic infrastructure, including new technology and qualified administrative staff
+* Fundraising may not produce large benefits for the organization in the short term but, in the long term may become very important as a way of cross-subsidizing programs inadequately funded by government contracts.
+* Government contracting with nonprofit agencies is in the midst of an important transition phase that is likely to continu
+* twin pressures of demands for more collaboration while coping with a more competitive contracting environmen
+* Given these trends, larger nonprofit (and for-profit) contract agencies with proven track records and capacity are likely to have an edge in the competition for contracts
+* **a central challenge for nonprofit agencies that seek contracts is to adapt their management and organizational structure to emphasize flexibility, nimbleness, and efficiency while retaining a commitment to equity, social justice, and community and engagement**
