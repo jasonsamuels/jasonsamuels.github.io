@@ -6,7 +6,7 @@ published: true
 
 It's snowing again.
 
-I'm up early writing this blog post. We've gotten about eight inches of snow since yesterday afternoon and my spouse had a 4am shift today. I shoveled the walk while she cleared off the car, and I waved goodbye while making sure that she got out of the driveway okay. After she left I came back inside to sit at the computer as our child sleeps. There's a memo due for class this week which I should be working on, but instead I focused on the documents I'm working on for my conference presentation two weeks from now. There are some people I need to coordinate with on that, and am trying to balance the need to have some lead time on that with finishing this week's homework.
+I'm up early writing this blog post. We've gotten about eight inches of snow since yesterday afternoon and my spouse had a 4am shift today. I shoveled the walk while she cleared off the car, and I waved goodbye while making sure that she got out of the driveway okay. After she left I came back inside to sit at the computer as our child sleeps. There's a memo due for class this week which I should be working on, but instead I focused on my conference presentation coming up two weeks from now. There are some people I need to coordinate with on that, and am trying to balance the need to have some lead time on that with finishing this week's homework.
 
 Am going to cut this blog post short. The sun is not yet up, calming music is playing, and I can still squeeze in some class reading and writing before the kiddo wakes and it's time for the morning scramble. I'm not looking forward to today's work commute.
 
