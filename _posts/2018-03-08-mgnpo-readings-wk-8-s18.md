@@ -8,7 +8,10 @@ Class theme was _Resource Environments, Philanthropy Social Enterprise/Commercia
 
 > ## Table of contents
 > * [Chapter 6, Managing Nonprofit Organizations, Tschirhart and Bielefeld (2012)](#chapter-6-managing-nonprofit-organizations-tschirhart-and-bielefeld-2012)
-> *
+> * [Revolutionizing the Nonprofit Sector Through Social Entrepreneurship File resource, Stecker (2014)](#revolutionizing-the-nonprofit-sector-through-social-entrepreneurship-file-resource-stecker-2014)
+> * [The Philanthropy Outlook, Marts & Lundy (2017)](#the-philanthropy-outlook-marts--lundy-2017)
+
+Reviewing [Chapter 3 of Managing Nonprofit Organizations](/mgnpo-readings-wks-2-3-s18/#chapter-3---founding-nonprofits-and-the-business-case) was also assigned this week
 
 ### Chapter 6, Managing Nonprofit Organizations, Tschirhart and Bielefeld (2012)
 
