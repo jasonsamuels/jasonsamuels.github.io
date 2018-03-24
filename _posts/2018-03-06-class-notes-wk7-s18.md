@@ -16,7 +16,7 @@ Here's the lecture outline from last week's class:
 * Why does financial management matter to nonprofits?
   * No margin, no mission
   * Obligation to donors
-* Your balance sheet and income statement are just another expression of the organization’s mission
+* **Your balance sheet and income statement are just another expression of the organization’s mission**
 * Composition of a nonprofit’s funding structure strongly influences strategic decisions
 * All nonprofits in the US with a C3 status have to submit a form 990
 * Nonprofits with revenues over 750K (or 500K in federal funding) must undergo an external financial audit
@@ -24,7 +24,7 @@ Here's the lecture outline from last week's class:
 * Individual contributions are the third largest revenue stream. Larger than state and local government grants combined
 * Religious organizations and universities are the largest recipients of individual donations
 * No funding stream is perfect, no funding stream can fix all of your problems
-* **If you see a line item on a 990 saying “repurposing of endowment” that’s a huge red flag that the org is in financial trouble.**
+* If you see a line item on a 990 saying “repurposing of endowment” that’s a huge red flag that the org is in financial trouble.
 * Individual contributions, pros:
   * Typically unrestricted
   * “Easier” to get, no grant writing or reporting

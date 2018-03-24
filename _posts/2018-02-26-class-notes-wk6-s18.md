@@ -6,7 +6,7 @@ published: true
 
 It's a snowy late-February in Minnesota.
 
-I don't have a whole lot to write this week. Class on Thursday was good, in a falling-into-a-routine kind of way. There was the lecture during the first half, then we wrapped up a bit early due to a snowstorm blowing in. I chatted with the professor on the walk through the driving snow out to the parking garage, discussed this blog, and gave some feedback on the pace of the class. The workload for this class seems like its rigorous but not overloaded.
+Class on Thursday was good, in a falling-into-a-routine kind of way. There was the lecture during the first half, then we wrapped up a bit early due to a snowstorm blowing in. I chatted with the professor on the walk through the driving snow out to the parking garage, discussed this blog, and gave some feedback on the pace of the class. The workload for this class seems like its rigorous but not overloaded.
 
 The paper for that Stakeholder Analysis workshop also came together by the end of the week, at the deadline of course. Okay, twenty minutes after the deadline.
 
