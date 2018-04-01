@@ -90,12 +90,12 @@ Tonight's MNGPO class turned out to be more discussion than lecture, starting wi
 * Leadership style - some people carry themselves with a hero attitude, riding high. Others lead with more of a servant style, more transformational than transactional.
 * **Jean Luc Picard school of management - “make it so”  then check back later to ensure your staff is following through**
 * What does marketing mean to you?
- * Telling our story and getting people to buy in to it
- * It’s a slogan or a commercial
- * It’s your branding
- * An emotional connection to your audience
- * Directed to your target as opposed to promoting your product or service
- * Upstream versus downstream marketing
+  * Telling our story and getting people to buy in to it
+  * It’s a slogan or a commercial
+  * It’s your branding
+  * An emotional connection to your audience
+  * Directed to your target as opposed to promoting your product or service
+  * Upstream versus downstream marketing
 * In nonprofits, marketing is usually storytelling, case statements, testimonials from customers, etc.
 * Interesting comment about the social implications of storytelling. Are human rights organizations doing a disservice to certain developing countries when they continually highlight stories of abusive practices in those places?
 * How we tell stories now is less and less through traditional media channels, often now through social media and much more uncensored and unfiltered. It’s not always a source of truth or source of fact.
