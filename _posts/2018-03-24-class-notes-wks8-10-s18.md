@@ -8,7 +8,7 @@ Spring break came and went since my last blog post.
 
 >Table of contents
 > * [Notes from IDSC](#notes-from-idsc)
-> * [Notes from MGNPO](#notes-from-MGNPO)
+> * [Notes from MNGPO](#notes-from-mngpo)
 
 It didn't feel like much of a break. I used my extra time to dig in on the conference presentation and work hard scrubbing data for the conversion at work. We also battled through some illness at home as our toddler got a mild case of pneumonia and I felt a bit under the weather too. Everyone was thankfully feeling better in time for a fun family weekend, we went to see The Wiz at Children's Theatre on Saturday and had brunch with extended family on Sunday.
 
