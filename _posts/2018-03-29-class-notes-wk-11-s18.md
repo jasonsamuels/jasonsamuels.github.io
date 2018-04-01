@@ -17,7 +17,7 @@ It was a good week regardless. My free time has disappeared with the extra study
 This week's IDSC featured a brilliant guest speaker, a former student who now works in process improvement at a large company.
 
 #### Introduction
-* How do we make sure that firms leverage their IT resources to benefit of the business? It takes some very smart people, and not just the ones in the IT department.
+* How do we make sure that firms leverage their IT resources to the benefit of the business? It takes some very smart people, and not just the ones in the IT department.
 
 #### Guest speaker
 * IT provides the foundation for the technology, but the business is in charge of deciding what’s going to drive the growth for their customer.
