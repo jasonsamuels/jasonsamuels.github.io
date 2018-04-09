@@ -8,7 +8,7 @@ This week the increased B Term workload really kicked in.
 
 >Table of contents
 > * [Notes from IDSC](#notes-from-idsc)
-> * [Notes from MNGPO](#notes-from-mngpo)
+> * [Notes from MGNPO](#notes-from-mgnpo)
 
 It was a good week regardless. My free time has disappeared with the extra studying, but I managed to keep up with the readings and complete an assignment for IDSC. It's also been a good week at work. Hit my first lull in a while in the most active stage of our CRM implementation, allowing me to work on some other areas of that implementation which needed attention. I wrote the quarterly update for that project, getting to report that the areas we were working to deliver last quarter are now delivered, while other areas we were starting on then are now in full swing. Last night I read the case study for next week's IDSC class, in which the large company undertaking a data normalizing process for an internal systems consolidation hired a director and a team of 20 for the task. I actually gasped reading that. Having worked on multiple database implementations as the data fixer, and the project manager, and the business analyst, and the sysadmin, it's a little mind boggling to imagine a team bigger than the entire staff of my org working on just one of those areas. But truth be told, I love the breadth of my work now. This project is a unique challenge to combine four systems, two by conversion (both done) and two by integration (getting there). CRM implementation is 80% of my job right now, but this week I also managed deployment of a critical security patch for the organization's website and finished setting up a computer for our new boss who starts on Monday. Plus I got a nice opportunity to share a textbook passage on leadership transitions with my coworkers. :)
 
@@ -80,9 +80,9 @@ This week's IDSC featured a brilliant guest speaker, a former student who now wo
 * Important to establish broad guidelines for allocation access portfolio types. One size fits all   models can be too rigid
 * It’s good to have a balance in your portfolio, including some moonshots
 
-### Notes from MNGPO
+### Notes from MGNPO
 
-Tonight's MNGPO class turned out to be more discussion than lecture, starting with a discussion of our recent case study assignment and then of this week's readings. It was interesting and enjoyable but also means I took fewer notes than usual.
+Tonight's MGNPO class turned out to be more discussion than lecture, starting with a discussion of our recent case study assignment and then of this week's readings. It was interesting and enjoyable but also means I took fewer notes than usual.
 
 * In a leadership case there are lots of options, question is which one fits right now? Even an ethical issue isn’t just yes or no
 * The generative “what will it take” reframes the discussion

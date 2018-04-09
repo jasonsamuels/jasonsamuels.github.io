@@ -8,7 +8,7 @@ Spring break came and went since my last blog post.
 
 >Table of contents
 > * [Notes from IDSC](#notes-from-idsc)
-> * [Notes from MNGPO](#notes-from-mngpo)
+> * [Notes from MGNPO](#notes-from-mgnpo)
 
 It didn't feel like much of a break. I used my extra time to dig in on the conference presentation and work hard scrubbing data for the conversion at work. We also battled through some illness at home as our toddler got a mild case of pneumonia and I felt a bit under the weather too. Everyone was thankfully feeling better in time for a fun family weekend, we went to see The Wiz at Children's Theatre on Saturday and had brunch with extended family on Sunday.
 
@@ -64,9 +64,9 @@ As the professor introduced himself, he explained that his research area is in h
   * _Network IT_ doesn’t impose complements, but lets them emerge and over time and payoffs increase when they do
 * Governance question around IT is what needs to be company-wide, versus what needs to be department-by-department?
 
-### Notes from MNGPO
+### Notes from MGNPO
 
-#### MNGPO, Week 8
+#### MGNPO, Week 8
 
 * It takes money to make money. The intent of a social enterprise is to support the mission. It’s not your mission, it’s your means
 * There is no formal definition of social enterprise
@@ -110,7 +110,7 @@ As the professor introduced himself, he explained that his research area is in h
     * Your efficiency
     * Your impact
 
-#### MNGPO, Week 10
+#### MGNPO, Week 10
 
 * What is the function of a board of directors?
   * Fiduciary responsibility
