@@ -26,18 +26,6 @@ Outside of that class experience though, my professional and academic life is fi
 
 In the gaps while writing this blog I also had family dinner, a conversation with my spouse, and got bath time started. It's 7:30pm now and this midterm still needs to get finished. I'm hoping it's not too long of a night to get there, but really need to shift gears now to make that happen.
 
-### FB test
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-post" data-href="https://www.facebook.com/groups/179867405725516/permalink/570128920032694/"></div>
-
 ### Notes from IDSC
 
 * One of the major things to take away from today’s class is the idea of seeing IT as part of the broader transformation of the firm
