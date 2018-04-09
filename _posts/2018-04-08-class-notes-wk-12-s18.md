@@ -65,7 +65,7 @@ In the gaps while writing this blog I had family dinner, a conversation with my 
 * One thing that happens **in the absence of any strategy across the firm, IT becomes like a shopping cart**
 * It’s a problem from a capabilities point of view only when you’re trying to leverage synergies
 * How do you change the decision rights and patterns of accountability to encourage desirable capabilities in IT?
-* Management is about sending signals, getting people to fall into line in a common direction  (author note: this is a point on which I think that there's an important distinction between management and leadership)
+* Management is about sending signals, getting people to fall into line in a common direction  (author note: I would argue that this can be accomplished more effectively by understanding the distinction between management and leadership)
 * See this in not just IT terms, it’s about taking the company from operating one certain way to another way
 * IT Governance and the way projects are approved has very powerful shaping effects in terms of how companies operate
 * As a result, governance itself is a complicated set of factors to line up
