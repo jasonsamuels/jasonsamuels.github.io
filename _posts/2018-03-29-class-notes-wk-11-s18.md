@@ -63,7 +63,7 @@ This week's IDSC featured a brilliant guest speaker, a former student who now wo
 * How do we make sure that we have a grand plan, and that we achieve it in stages?
 * Terminology: Multi-business firms - when you think of a multi-business unit, call that an enterprise. Each unit is a firm
 * Each business unit might have completely different goals
-* At the end of the day, the most important consideration behind all of these things is a vision of the future. Defining that vision is the key question to get right when planning a large IT investment
+* **At the end of the day, the most important consideration behind all of these things is a vision of the future. Defining that vision is the key question to get right when planning a large IT investment**
 * Planning for a project that’ll take 3-5 years to implement, you need to understand what your customers are going to want from you at that point in the future
 * What is expected of a firm is a complicated thing. As markets and industries change, what the firm needs to be in the future is a moving target
 * In some industries the key firm processes and standards of performance are better understood than in other industries. Implications for managing uncertainty:
