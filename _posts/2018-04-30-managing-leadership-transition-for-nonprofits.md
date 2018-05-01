@@ -6,6 +6,22 @@ published: true
 
 For my final MGNPO paper, I'm tasked with writing a critical review of a book related to nonprofit management. The title that I chose is _Managing Leadership Transition for Nonprofits: Passing the Torch to Sustain Organizational Excellence_ by Dym, Egmont, and Watkins (2011). The following is my outline of the material.
 
+> ## Table of contents
+>
+> [Chapter 1 - What Makes Nonprofit Leadership So Challenging?](#chapter-1---what-makes-nonprofit-leadership-so-challenging)
+> [Chapter 2 - Why Transitions Fail](#chapter-2---why-transitions-fail)
+> [Chapter 3 - Mission, Vision, and Effective Leadership](#chapter-3---mission-vision-and-effective-leadership)
+> [Chapter 4 - Leadership and Strategy](#chapter-4---leadership-and-strategy)
+> [Chapter 5 - Good Governance](#chapter-5---good-governance)
+> [Chapter 6 - Alignment](#chapter-6---alignment)
+> [Chapter 7 - Creating a Transition Management Plan](#chapter-7---creating-a-transition-management-plan)
+> [Chapter 8 - Managing During the Transition Period](#chapter-8---managing-during-the-transition-period)
+> [Chapter 9 - Managing the Search Process](#chapter-9---managing-the-search-process)
+> [Chapter 10 - Using Interim CEOs During Transition](#chapter-10---using-interim-ceos-during-transition)
+> [Chapter 11 - Introducing the New Leader](#chapter-11---introducing-the-new-leader)
+> [Chapter 12 - Succession Planning](#chapter-12---succession-planning)
+> [Chapter 13 - Leadership Continuity and Long-Term Governance](#chapter-13---leadership-continuity-and-long-term-governance)
+
 ### Chapter 1 - What Makes Nonprofit Leadership So Challenging?
 
 * The question of fit is complicated by the variety of circumstances that set the scene for each transition—circumstances that affect the balance between welcome and resistance to new leaders.
