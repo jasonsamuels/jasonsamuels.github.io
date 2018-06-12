@@ -4,7 +4,7 @@ title: Class notes - week sixteen, Spring 2018
 published: true
 ---
 
-.
+Final week of class
 
 >Table of contents
 > * [Notes from IDSC](#notes-from-idsc)
@@ -65,3 +65,17 @@ The first half of the final class session featured a guest speaker who has worke
 * Closing thought for the course: Technology is too important to leave just up to IT. Encourage everyone to take charge with what’s going on in your company about IT and leverage the capabilities.
 
 ### Notes from MGNPO
+
+There wasn't much new to say from the last week of class, we reviewed concepts from throughout the course. I jotted down a few broad takeaways
+
+* We’re finishing 15 weeks of learning about governance and management
+* About every five years an organization need to catch its breath, scan the environment and reevaluate its position
+* Go to function first, then structure. That’s a critical concept that it took a long time to understand as a new CEO
+* There’s no one unifying theory for nonprofits. Most common one used is the principal agent theory. Second one is resource dependency theory. Followed by government failure theory
+* Concepts of equity and ethics sort of slide around each other
+* Just because something is legal doesn’t mean it’s ethical
+* Almost always, staff will follow you with a change if you tell them the reason why
+* Whenever you do an employee review, ask them what’s motivating them. It’s usually not money. And what motivates one person isn’t always a motivator for another. Don’t assume anything about personnel, need to ask
+* Two resources that every nonprofit executive needs to pay attention to: people and finance
+* Cashflow and forecasts = early warning system for decision making
+* When we get too sucked into the day-to-day survival mode, can become blind to oncoming disruption. Branch out and talk with people outside your usual circles.
