@@ -4,7 +4,7 @@ title: Renaissance
 published: true
 ---
 
-_/*Taps mic/* .. is this thing on?_
+_*Taps mic* .. is this thing on?_
 
 It's been almost five years since last updating this blog, and over six years since earning a nonprofit management certificate. I'm excited to write that in a couple of weeks I'll be returning to the University of Minnesota Humphrey School of Public Affairs to take part in the 2024-25 Mid-career MPA Cohort.
 
