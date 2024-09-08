@@ -19,9 +19,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: $darkGray;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $white;
 }
 
 .container {
@@ -33,7 +33,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -62,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $LightGray;
 }
 
 p {
@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #ADC5E6;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #789BD9;
   }
 }
 
@@ -123,12 +123,12 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: $lightGray;
+  background: $black;
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: $lightGray;
+  background: $black;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -157,7 +157,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $DarkGray;
 
   @include mobile {
     text-align: center;
@@ -193,7 +193,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $lightGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -226,14 +226,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #ADC5E6;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #ADC5E6;
     }
   }
 }
@@ -244,7 +244,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $DarkGray;
 }
 
 .posts > .post:last-child {
@@ -255,9 +255,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $white;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $white;
     font-size: 22px;
     font-style: italic;
   }
@@ -276,7 +276,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $DarkGray;
 }
 
 footer {
