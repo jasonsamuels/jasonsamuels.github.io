@@ -12,7 +12,7 @@ In addition to the cohort program this semester, I'm also taking a one credit cl
 
 The class discussion was rich. I especially appreciated the non-student nonprofit leaders who showed up. Hearing how everyone's perspectives and experiences bore out class concepts was illuminating. I spoke to my own experience a bit but tried to listen more.
 
-The assignments for this class are one page reflection essays, which is awesome for me 'cause I'm just gonna repurpose these blog posts.
+The assignments for this class are one page reflection essays, which is awesome for me 'cause I'm just gonna repurpose these blog posts. 😁
 
 <b>A week after class, I wrote...</b> As I've thought about last week's class session, It still feels like a privilege. I realized part of what I'm feeling is a greater level of familiarity in this class than my cohort. Much of the content we discussed is closely aligned with nonprofit management concepts that I learned here years ago (I tried to not quote Michael Wirth-Davis too many times). With that familiarity comes a consideration to check myself if I start feeling like I know all this already, because I don't, and while I'm excited to discuss my own perspectives and experiences I will both learn more myself and be a better classmate by being mindful to listen actively and honor the opportunity to learn from others' perspectives. The Humble Leadership text we're reading in the cohort and Jay Kiedrowski's leadership lessons are on my mind to guide my actions in practice here.
 
