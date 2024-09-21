@@ -18,6 +18,8 @@ A week after class, I wrote... As I've thought about last week's class session, 
 
 I'm really looking forward to the remaining three class sessions. It's unfortunate that the next session is the same Friday morning as day two of the Minnesota Council of Nonprofits annual conference, but I might put a message out on the class message board asking if anyone wants to carpool over there with me from campus. I'm also thinking ahead to my capstone project, and whether anyone in this class might be potential teammates for that work in Summer '25.
 
+## Class discussion takeaways
+
 Reflecting back on my class discussion notes, these key concepts stand out as learnings to build upon:
 * __Research has shown that the most important factor for effectiveness is interpersonal relationships__
 * Governance is a function, boards are a structure
@@ -44,15 +46,31 @@ Reflecting back on my class discussion notes, these key concepts stand out as le
 * Generative questions can lead to very intriguing and fruitful, but also uncomfortable and difficult big picture questions.
 * This is a great practical exercise to take back to real-world board meetings: for a question the board is grappling with, ask them to articulate which parts of the issue fit each mode.
 
-And these additional concepts from the readings as well:
+## Class reading takeaways
+
+### How much do Americans trust nonprofits? Isaiah Thompson, Nonprofit Quarterly, July 2024
+
+* Trust in institutions is eroding and nonprofits are not immune.
+* The nonprofit sector remains among the most trusted, however trust has declined.
+* Public policy and nonpartisan voter engagement orgs are less trusted.
+* 4 in 5 people who volunteer say they have positive expereinces with nonprofits. 
+
+### Adaptive boards don't stop at technical solutions. Jennifer Kramm, Propel Nonprofits, August 2018
+
 * Technical problems vs. Adaptive problems
     * Technical problems have "known solutions that can be implemented by current know-how"
     * Adaptive problems "can only be addressed by changes in people's priorities, beliefs, habits, and loyalties"
 * Adaptive problems are more difficult and too-often ignored
+
+### Board Governance as Leadership, summary from Chait, Ryan, & Taylor, July 2009
+
 * Modes of governance -> outcomes
     * Fiduciary -> Conformance
     * Strategic -> Performance
     * Generative -> Robustness
+
+### Ethics and Nonprofits, Stanford Social Innovation Review, Rhode & Packel, Summer 2009
+
 * Too many people who observe misconduct fail to report it. Research has found four factors:
     * Moral awareness
     * Moral decision making
@@ -64,6 +82,9 @@ And these additional concepts from the readings as well:
     * Effective compliance
     * Effective financial management
     * Ethical culture
+
+### Chapter 4 - Leadership, Governance, and the Work of the Board, David Renz, 2024
+
 * Four fundamental categories of board work:
     * governance and strategic direction
     * resource development and acquisition
