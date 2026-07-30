@@ -100,15 +100,15 @@ None of the words in this post so far were machine-drafted. That part begins now
 
 Leo XIV opens by refusing both the boosterish and the apocalyptic framings of AI, and he sets the stakes as a choice rather than a forecast. The emphasis falls on dehumanization as an old temptation now wearing a technical guise, and on the duty that follows from it — to remain profoundly human at precisely the moment when the tools make that harder. Technology is not the antagonist here; the question is who holds its power and toward what end.
 
-* 1. Humanity, created by God in all its grandeur, is today facing a pivotal choice; yet every era also runs the risk of creating an inhumane and more unjust world
-* 2. Openness to dialogue is an integral part of the Church’s vocation
-* 3. The proclamation of the Gospel cannot overlook the concrete lives of people; Social Doctrine offers principles for thought, criteria for discernment and judgment, and concrete guidelines for action
+* 1 - Humanity, created by God in all its grandeur, is today facing a pivotal choice; yet every era also runs the risk of creating an inhumane and more unjust world
+* 2 - Openness to dialogue is an integral part of the Church’s vocation
+* 3 - The proclamation of the Gospel cannot overlook the concrete lives of people; Social Doctrine offers principles for thought, criteria for discernment and judgment, and concrete guidelines for action
 
 ### The res novae of our time
 
-* 4. Technology should not be considered, in itself, as a force antagonistic to humanity; each phase of progress has revealed the ambiguity of tools that can cause harm when not oriented toward the good
-* 5. The issue is not limited to regulation; Technological power thus takes on an unprecedented, predominantly “private” aspect
-* 6. If we focus only on contingencies, we risk letting the succession of emergencies dictate the direction of our path.
+* 4 - Technology should not be considered, in itself, as a force antagonistic to humanity; each phase of progress has revealed the ambiguity of tools that can cause harm when not oriented toward the good
+* 5 - The issue is not limited to regulation; Technological power thus takes on an unprecedented, predominantly “private” aspect
+* 6 - If we focus only on contingencies, we risk letting the succession of emergencies dictate the direction of our path.
 
 ### Two biblical images
 
